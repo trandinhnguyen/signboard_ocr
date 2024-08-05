@@ -1,0 +1,805 @@
+thitran,huyen,tinh, 1, 2, 3, 4, 5
+An Châu,Sơn Động,Bắc Giang,"20,22",9.416,466,1991,V
+Bắc Lý,Hiệp Hòa,Bắc Giang,"12,90",15.279,1.184,2022,V
+Bố Hạ,Yên Thế,Bắc Giang,"7,27",10.408,1.432,1957,V
+Cao Thượng,Tân Yên,Bắc Giang,"9,44",13.323,1.411,1997,V
+Chũ,Lục Ngạn,Bắc Giang,"12,84",14.625,1.139,1957,IV
+Đồi Ngô,Lục Nam,Bắc Giang,"13,69",20.206,1.475,1997,IV
+Kép,Lạng Giang,Bắc Giang,"9,64",11.832,1.227,1959,V
+Nhã Nam,Tân Yên,Bắc Giang,"5,60",8.2,1.464,2003,V
+Nham Biền,Yên Dũng,Bắc Giang,"21,96",14.22,648,2019,V
+Phồn Xương,Yên Thế,Bắc Giang,"8,55",8.436,987,2019,V
+Phương Sơn,Lục Nam,Bắc Giang,"8,45",8.38,991,2022,V
+Tân An,Yên Dũng,Bắc Giang,"9,15",9.966,1.089,2019,V
+Tây Yên Tử,Sơn Động,Bắc Giang,"82,06",5.959,73,2019,V
+Thắng,Hiệp Hòa,Bắc Giang,"11,35",18.833,1.659,1957,IV
+Vôi,Lạng Giang,Bắc Giang,"12,13",16.855,1.39,1997,V
+Bằng Lũng,Chợ Đồn,Bắc Kạn,"27,28",6.523,239,1985,V
+Chợ Rã,Ba Bể,Bắc Kạn,"4,15",4.499,1.084,,V
+Đồng Tâm,Chợ Mới,Bắc Kạn,"22,67",5.853,258,2020,V
+Nà Phặc,Ngân Sơn,Bắc Kạn,"62,45",6.459,103,1980,V
+Phủ Thông,Bạch Thông,Bắc Kạn,"21,97",3.679,167,1995,V
+Vân Tùng,Ngân Sơn,Bắc Kạn,"51,10",5.59,109,2023,V
+Yến Lạc,Na Rì,Bắc Kạn,"17,65",5.28,299,1985,V
+Bảo Lạc,Bảo Lạc,Cao Bằng,"11,03",8.767,794,,V
+Đông Khê,Thạch An,Cao Bằng,"14,97",6.711,448,1999,V
+Hòa Thuận,Quảng Hòa,Cao Bằng,"37,99",6.477,170,2007,V
+Nguyên Bình,Nguyên Bình,Cao Bằng,"26,38",6.011,227,,V
+Nước Hai,Hòa An,Cao Bằng,"21,27",13.304,625,,V
+Pác Miầu,Bảo Lâm,Cao Bằng,"40,36",6.105,151,2006,V
+Quảng Uyên,Quảng Hòa,Cao Bằng,"18,46",6.089,330,,V
+Tà Lùng,Quảng Hòa,Cao Bằng,"6,36",7.573,1.19,1999,V
+Thanh Nhật,Hạ Lang,Cao Bằng,"15,80",5.212,329,2006,V
+Thông Nông,Hà Quảng,Cao Bằng,"9,35",5.087,544,1999,V
+Tĩnh Túc,Nguyên Bình,Cao Bằng,"22,56",4.205,190,1963,V
+Trà Lĩnh,Trùng Khánh,Cao Bằng,"14,90",5.356,359,2020,V
+Trùng Khánh,Trùng Khánh,Cao Bằng,"13,81",6.843,496,1958,V
+Xuân Hòa,Hà Quảng,Cao Bằng,"33,95",5.991,164,2006,V
+Cốc Pài,Xín Mần,Hà Giang,"16,47",6.89,418,2009,V
+Đồng Văn,Đồng Văn,Hà Giang,"30,31",7.845,258,2009,V
+Mèo Vạc,Mèo Vạc,Hà Giang,"14,41",7.208,500,1999,V
+Nông trường Việt Lâm,Vị Xuyên,Hà Giang,"16,47",6.092,369,1967,V
+Phố Bảng,Đồng Văn,Hà Giang,"11,31",2.811,249,1961,V
+Tam Sơn,Quản Bạ,Hà Giang,"12,30",6.572,534,1999,V
+Vị Xuyên,Vị Xuyên,Hà Giang,"15,00",9.147,609,1994,V
+Việt Quang,Bắc Quang,Hà Giang,"45,33",17.348,382,1986,IV
+Vinh Quang,Hoàng Su Phì,Hà Giang,"6,37",7.582,1.19,1999,V
+Vĩnh Tuy,Bắc Quang,Hà Giang,"10,8",5.812,538,1957,V
+Yên Bình,Quang Bình,Hà Giang,"47,50",8.307,174,2010,V
+Yên Minh,Yên Minh,Hà Giang,"30,47",8.129,267,1999,V
+Yên Phú,Bắc Mê,Hà Giang,"67,23",8.532,126,2009,V
+Bắc Sơn,Bắc Sơn,Lạng Sơn,"14,91",6.402,429,1985,V
+Bình Gia,Bình Gia,Lạng Sơn,"37,34",8.521,228,,V
+Cao Lộc,Cao Lộc,Lạng Sơn,"2,76",7.521,2.725,1994,V
+Chi Lăng,Chi Lăng,Lạng Sơn,"20,78",7.321,352,1983,V
+Đình Lập,Đình Lập,Lạng Sơn,"6,37",5.728,899,1977,V
+Đồng Đăng,Cao Lộc,Lạng Sơn,7,10.584,1.366,,IV
+Đồng Mỏ,Chi Lăng,Lạng Sơn,"35,64",14.275,401,,V
+Hữu Lũng,Hữu Lũng,Lạng Sơn,"4,8",12.335,2.569,1965[2],V
+Lộc Bình,Lộc Bình,Lạng Sơn,"17,77",9.427,531,,V
+Na Dương,Lộc Bình,Lạng Sơn,"11,15",8.292,743,1984,V
+Na Sầm,Văn Lãng,Lạng Sơn,"14,68",6.229,424,,V
+Nông trường Thái Bình,Đình Lập,Lạng Sơn,"11,62",5.53,475,1965,V
+Thất Khê,Tràng Định,Lạng Sơn,"0,86",6.871,7.989,,V
+Văn Quan,Văn Quan,Lạng Sơn,"16,84",5.427,322,1985,V
+Cẩm Khê,Cẩm Khê,Phú Thọ,"17,78",15.07,848,2019,V
+Đoan Hùng,Đoan Hùng,Phú Thọ,"5,13",7.165,1.397,1994,V
+Hạ Hòa,Hạ Hòa,Phú Thọ,"10,03",8.295,827,1997,V
+Hùng Sơn,Lâm Thao,Phú Thọ,"4,7",9.444,2.009,2005,V
+Hưng Hóa,Tam Nông,Phú Thọ,"4,53",4.455,983,1997,V
+Lâm Thao,Lâm Thao,Phú Thọ,"5,89",7.621,1.293,1997,V
+Phong Châu,Phù Ninh,Phú Thọ,"9,38",16.836,"1,795",1989,V
+Thanh Ba,Thanh Ba,Phú Thọ,"4,81",8.201,1.705,1995,V
+Thanh Sơn,Thanh Sơn,Phú Thọ,"4,15",15.404,3.712,1997,V
+Thanh Thủy,Thanh Thủy,Phú Thọ,"9,24",5.561,602,2010,V
+Yên Lập,Yên Lập,Phú Thọ,"11,96",8.074,675,1997,V
+Ba Chẽ,Ba Chẽ,Quảng Ninh,"6,99",4.635,663,1977,V
+Bình Liêu,Bình Liêu,Quảng Ninh,"45,18",7.683,170,1977,V
+Cái Rồng,Vân Đồn,Quảng Ninh,"8,8",9.52,1.082,1981,IV
+Cô Tô,Cô Tô,Quảng Ninh,"6,5",3.136,482,1999,V
+Đầm Hà,Đầm Hà,Quảng Ninh,"3,37",7.9,2.344,1991,V
+Quảng Hà,Hải Hà,Quảng Ninh,"26,02",14.815,569,1979,IV
+Tiên Yên,Tiên Yên,Quảng Ninh,"7,07",7.519,1.064,1955,IV
+Chợ Chu,Định Hóa,Thái Nguyên,"4,47",6.526,1.46,1958,V
+Đình Cả,Võ Nhai,Thái Nguyên,"10,16",3.81,375,1990,V
+Đu,Phú Lương,Thái Nguyên,"9,4",8.583,913,1994,V
+Giang Tiên,Phú Lương,Thái Nguyên,"3,81",3.605,946,1977,V
+Hóa Thượng,Đồng Hỷ,Thái Nguyên,"13,38",13.871,1.037,2023,V
+Hùng Sơn,Đại Từ,Thái Nguyên,"14,63",25.051,1.712,2013,IV
+Hương Sơn,Phú Bình,Thái Nguyên,"9,78",9.456,967,2003,V
+Quân Chu,Đại Từ,Thái Nguyên,"11,85",4.036,341,2011,V
+Sông Cầu,Đồng Hỷ,Thái Nguyên,"10,4",6.482,623,2011,V
+Trại Cau,Đồng Hỷ,Thái Nguyên,"6,27",5.947,949,1962,V
+Lăng Can,Lâm Bình,Tuyên Quang,"73,33",8.373,114,2021,V
+Na Hang,Na Hang,Tuyên Quang,"43,63",7.289,167,1987,V
+Sơn Dương,Sơn Dương,Tuyên Quang,"20,74",20.413,984,1994,V
+Tân Yên,Hàm Yên,Tuyên Quang,"33,23",11.155,336,1985,V
+Vĩnh Lộc,Chiêm Hóa,Tuyên Quang,"7,27",8.594,1.182,1946,V
+Yên Sơn,Yên Sơn,Tuyên Quang,"29,21",22.041,755,2021,V
+Điện Biên Đông,Điện Biên Đông,Điện Biên,"18,9",3.448,182,2005,V
+Mường Ảng,Mường Ảng,Điện Biên,"6,46",5.365,830,1997,V
+Mường Chà,Mường Chà,Điện Biên,"10,26",4.151,405,1997,V
+Tủa Chùa,Tủa Chùa,Điện Biên,"14,49",8.184,565,1989,V
+Tuần Giáo,Tuần Giáo,Điện Biên,"17,60",8.034,456,1965,V
+Ba Hàng Đồi,Lạc Thủy,Hòa Bình,"27,11",7.372,272,2019,V
+Bo,Kim Bôi,Hòa Bình,"13,27",14.401,1.085,1978,V
+Cao Phong,Cao Phong,Hòa Bình,"9,45",6.241,660,1994,V
+Chi Nê,Lạc Thủy,Hòa Bình,"14,82",7.743,522,1990,V
+Đà Bắc,Đà Bắc,Hòa Bình,"14,84",7.472,504,1990,V
+Hàng Trạm,Yên Thủy,Hòa Bình,"32,14",11.503,358,1994,V
+Lương Sơn,Lương Sơn,Hòa Bình,"17,3",14.248,824,1986,IV
+Mai Châu,Mai Châu,Hòa Bình,"13,02",5.938,456,1990,V
+Mãn Đức,Tân Lạc,Hòa Bình,"40,01",14.655,366,2019,V
+Vụ Bản,Lạc Sơn,Hòa Bình,"13,57",9.497,700,1957,V
+Mường Tè,Mường Tè,Lai Châu,"12,45",5.85,470,1987,V
+Nậm Nhùn,Nậm Nhùn,Lai Châu,"29,95",5.745,191,2011,V
+Phong Thổ,Phong Thổ,Lai Châu,"44,42",6.316,142,2004,V
+Sìn Hồ,Sìn Hồ,Lai Châu,"9,51",6.215,653,1977,V
+Tam Đường,Tam Đường,Lai Châu,"23,00",7.398,322,2004,V
+Tân Uyên,Tân Uyên,Lai Châu,"70,95",14.028,198,2008,V
+Than Uyên,Than Uyên,Lai Châu,"9,62",8.062,838,1991,V
+Bát Xát,Bát Xát,Lào Cai,"15,24",6.933,455,1994,V
+Bắc Hà,Bắc Hà,Lào Cai,"1,83",6.378,3.452,1975,V
+Khánh Yên,Văn Bàn,Lào Cai,"7,5",8.536,1.138,1989,V
+Mường Khương,Mường Khương,Lào Cai,"35,65",9.635,270,2010,V
+Nông trường Phong Hải,Bảo Thắng,Lào Cai,"91,06",9.031,99,1977,V
+Phố Lu,Bảo Thắng,Lào Cai,"22,19",10.802,487,1979,V
+Phố Ràng,Bảo Yên,Lào Cai,"13,6",10.033,737,1986,V
+Si Ma Cai,Si Ma Cai,Lào Cai,"15,01",5.652,377,2020,V
+Tằng Loỏng,Bảo Thắng,Lào Cai,"36,12",6.947,192,1986,V
+Bắc Yên,Bắc Yên,Sơn La,"8,92",6.871,770,1999,V
+Hát Lót,Mai Sơn,Sơn La,"13,76",20.034,1.445,1977,IV
+Ít Ong,Mường La,Sơn La,"34,85",18.362,526,2007,V
+Mộc Châu,Mộc Châu,Sơn La,"10,92",15.782,1.445,1961,IV
+Nông trường Mộc Châu,Mộc Châu,Sơn La,"108,39",21.879,292,1968,IV
+Phù Yên,Phù Yên,Sơn La,"1,05",9.207,8.769,1977,V
+Sông Mã,Sông Mã,Sơn La,"4,47",10.438,2.335,1977,V
+Thuận Châu,Thuận Châu,Sơn La,"1,04",12.432,11.953,,V
+Yên Châu,Yên Châu,Sơn La,"1,15",6.795,5.908,1988,V
+Cổ Phúc,Trấn Yên,Yên Bái,"4,36",5.788,1.328,1989,V
+Mậu A,Văn Yên,Yên Bái,"8,11",11.596,1.43,1987,V
+Mù Cang Chải,Mù Cang Chải,Yên Bái,"7,06",3.425,485,1998,V
+Nông trường Liên Sơn,Văn Chấn,Yên Bái,"11,77",6.095,517,1968,V
+Nông trường Trần Phú,Văn Chấn,Yên Bái,"18,92",7.325,387,1968,V
+Sơn Thịnh,Văn Chấn,Yên Bái,"31,52",8.831,280,2020,V
+Thác Bà,Yên Bình,Yên Bái,"12,61",6.024,477,1977,V
+Trạm Tấu,Trạm Tấu,Yên Bái,"3,73",2.926,784,1998,V
+Yên Bình,Yên Bình,Yên Bái,25,12.143,485,1986,V
+Yên Thế,Lục Yên,Yên Bái,"15,07",9.861,654,1987,V
+Chờ,Yên Phong,Bắc Ninh,"5,45",18.738,3.438,1998,V
+Gia Bình,Gia Bình,Bắc Ninh,"4,36",8.203,1.881,2002,V
+Lim,Tiên Du,Bắc Ninh,"5,12",13.055,2.55,1998,V
+Thứa,Lương Tài,Bắc Ninh,"6,92",10.795,1.56,1998,V
+Ba Sao,Kim Bảng,Hà Nam,"34,76",5.723,164,2009,IV
+Bình Mỹ,Bình Lục,Hà Nam,"14,62",13.341,913,1987,V
+Kiện Khê,Thanh Liêm,Hà Nam,"7,52",9.201,1.223,1984,V
+Quế,Kim Bảng,Hà Nam,"3,08",5.226,1.696,1986,IV
+Tân Thanh,Thanh Liêm,Hà Nam,"11,76",9.496,807,2019,V
+Vĩnh Trụ,Lý Nhân,Hà Nam,"5,11",10.886,2.13,1987,V
+Chi Đông,Mê Linh,Hà Nội,"4,86",9.861,2.029,2008,V
+Chúc Sơn,Chương Mỹ,Hà Nội,"5,52",9.254,1.676,1990,V
+Đại Nghĩa,Mỹ Đức,Hà Nội,"4,9",8.015,1.636,2004,V
+Đông Anh,Đông Anh,Hà Nội,"4,57",25.274,5.53,1982,V
+Kim Bài,Thanh Oai,Hà Nội,"4,32",7.069,1.636,1994,V
+Liên Quan,Thạch Thất,Hà Nội,"2,91",6.552,2.252,1994,V
+Phú Minh,Phú Xuyên,Hà Nội,"1,22",4.795,3.93,1986,V
+Phú Xuyên,Phú Xuyên,Hà Nội,"6,86",9.97,1.453,1986,V
+Phúc Thọ,Phúc Thọ,Hà Nội,"3,86",8.72,2.259,1994,V
+Phùng,Đan Phượng,Hà Nội,"2,97",10.605,3.571,1994,V
+Quang Minh,Mê Linh,Hà Nội,"8,9",19.126,2.148,2008,V
+Quốc Oai,Quốc Oai,Hà Nội,"5,03",14.491,2.881,1988,V
+Sóc Sơn,Sóc Sơn,Hà Nội,"0,82",4.849,5.913,1987,V
+Tây Đằng,Ba Vì,Hà Nội,"12,05",15.582,1.293,1994,V
+Thường Tín,Thường Tín,Hà Nội,"0,74",6.178,8.349,1988,V
+Trạm Trôi,Hoài Đức,Hà Nội,"1,22",6.217,5.096,1994,V
+Trâu Quỳ,Gia Lâm,Hà Nội,"7,35",23.772,3.234,2005,V
+Văn Điển,Thanh Trì,Hà Nội,"0,9",16.762,18.624,1958,V
+Vân Đình,Ứng Hòa,Hà Nội,"5,39",14.34,2.66,1965,V
+Xuân Mai,Chương Mỹ,Hà Nội,"10,52",23.265,2.211,1984,V
+Yên Viên,Gia Lâm,Hà Nội,"1,02",15.029,14.739,1959,V
+Cẩm Giang,Cẩm Giàng,Hải Dương,"5,57",8.308,1.492,2019,V
+Gia Lộc,Gia Lộc,Hải Dương,"7,67",18.307,2.387,1994,V
+Kẻ Sặt,Bình Giang,Hải Dương,"3,02",10.359,3.43,1958,V
+Lai Cách,Cẩm Giàng,Hải Dương,"7,15",11.2,1.566,1998,V
+Nam Sách,Nam Sách,Hải Dương,"4,55",11.931,2.622,1989,V
+Ninh Giang,Ninh Giang,Hải Dương,"1,66",6.224,3.749,1965,V
+Phú Thái,Kim Thành,Hải Dương,"2,68",6.216,2.319,1995,V
+Thanh Hà,Thanh Hà,Hải Dương,"5,27",8.368,1.588,1997,V
+Thanh Miện,Thanh Miện,Hải Dương,"9,59",14.884,1.552,1996,V
+Tứ Kỳ,Tứ Kỳ,Hải Dương,"4,38",7.656,1.748,1997,V
+An Dương,An Dương,Hải Phòng,"1,79",8.295,4.634,1987,V
+An Lão,An Lão,Hải Phòng,"1,66",4.849,2.921,1993,V
+Cát Bà,Cát Hải,Hải Phòng,"18,7",12.054,645,1957,V
+Cát Hải,Cát Hải,Hải Phòng,"2,94",6.093,2.072,1988,V
+Minh Đức,Thủy Nguyên,Hải Phòng,"13,55",11.641,859,1986,V
+Núi Đèo,Thủy Nguyên,Hải Phòng,"0,97",5.03,5.186,1986,V
+Núi Đối,Kiến Thụy,Hải Phòng,"1,59",3.603,2.266,1987,V
+Tiên Lãng,Tiên Lãng,Hải Phòng,"6,23",14.849,2.383,1987,V
+Trường Sơn,An Lão,Hải Phòng,"3,6",8.372,2.326,2007,V
+Vĩnh Bảo,Vĩnh Bảo,Hải Phòng,"2,52",8.435,3.343,1986,V
+Ân Thi,Ân Thi,Hưng Yên,"7,7",9.445,1.227,1996,V
+Khoái Châu,Khoái Châu,Hưng Yên,"4,35",8.146,1.873,1997,V
+Lương Bằng,Kim Động,Hưng Yên,"7,43",9.991,1.345,2002,V
+Như Quỳnh,Văn Lâm,Hưng Yên,"7,07",20.604,2.914,1999,IV
+Trần Cao,Phù Cừ,Hưng Yên,"4,8",6.196,1.291,2000,V
+Văn Giang,Văn Giang,Hưng Yên,"6,84",11.347,1.659,1999,V
+Vương,Tiên Lữ,Hưng Yên,"2,28",5.282,2.317,1995,V
+Yên Mỹ,Yên Mỹ,Hưng Yên,"4,22",14.404,3.413,1994,V
+Cát Thành,Trực Ninh,Nam Định,"8,3",14.577,1.756,2006,V
+Cổ Lễ,Trực Ninh,Nam Định,"4,93",12.158,2.466,1984,V
+Cồn,Hải Hậu,Nam Định,"2,15",7.274,3.383,1958,V
+Gôi,Vụ Bản,Nam Định,"4,75",7.34,1.545,1986,V
+Lâm,Ý Yên,Nam Định,"6,86",10.857,1.583,1986,V
+Liễu Đề,Nghĩa Hưng,Nam Định,"4,18",6.254,1.496,1987,V
+Mỹ Lộc,Mỹ Lộc,Nam Định,"4,69",5.057,1.078,2003,V
+Nam Giang,Nam Trực,Nam Định,"7,02",17.833,2.54,2003,V
+Ngô Đồng,Giao Thủy,Nam Định,"2,16",6.006,2.78,1986,V
+Ninh Cường,Trực Ninh,Nam Định,"7,43",10.244,1.378,2017,V
+Quất Lâm,Giao Thủy,Nam Định,"7,59",9.726,1.281,2003,V
+Quỹ Nhất,Nghĩa Hưng,Nam Định,"5,46",6.274,1.146,2007,V
+Rạng Đông,Nghĩa Hưng,Nam Định,"13,1",5.882,449,1987,V
+Thịnh Long,Hải Hậu,Nam Định,"15,68",23.5,1.498,1997,IV
+Xuân Trường,Xuân Trường,Nam Định,"6,16",8.547,1.388,2003,V
+Yên Định,Hải Hậu,Nam Định,"1,76",10,5.681,1986,V
+Bình Minh,Kim Sơn,Ninh Bình,"9,15",3.6,393,1987,V
+Me,Gia Viễn,Ninh Bình,"3,4",5.574,1.639,1986,V
+Nho Quan,Nho Quan,Ninh Bình,"2,81",9.299,3.309,1953,V
+Phát Diệm,Kim Sơn,Ninh Bình,"1,05",10.687,10.178,1987,V
+Thiên Tôn,Hoa Lư,Ninh Bình,"2,16",4.121,1.908,2003,V
+Yên Ninh,Yên Khánh,Ninh Bình,"8,12",14.236,1.753,1996,V
+Yên Thịnh,Yên Mô,Ninh Bình,"7,63",9.036,1.184,1997,V
+An Bài,Quỳnh Phụ,Thái Bình,7,9.4,1.342,2005,V
+Diêm Điền,Thái Thụy,Thái Bình,"12,82",22.17,1.729,1986,IV
+Đông Hưng,Đông Hưng,Thái Bình,"0,65",4.332,6.664,1986,V
+Hưng Hà,Hưng Hà,Thái Bình,"5,5",8,1.454,1989,V
+Hưng Nhân,Hưng Hà,Thái Bình,"8,64",14.5,1.678,2005,V
+Kiến Xương,Kiến Xương,Thái Bình,"11,26",12.254,1.088,2020,V
+Quỳnh Côi,Quỳnh Phụ,Thái Bình,"1,2",6,5000,1969,V
+Tiền Hải,Tiền Hải,Thái Bình,"9,39",13.562,1.444,1986,V
+Vũ Thư,Vũ Thư,Thái Bình,"1,1",4.532,4.12,1986,V
+Bá Hiến,Bình Xuyên,Vĩnh Phúc,"12,81",16.791,1.311,2020,V
+Đại Đình,Tam Đảo,Vĩnh Phúc,"34,56",11.52,333,2020,V
+Đạo Đức,Bình Xuyên,Vĩnh Phúc,"9,44",14.543,1.541,2020,V
+Gia Khánh,Bình Xuyên,Vĩnh Phúc,"9,39",11.221,1.194,2007,V
+Hoa Sơn,Lập Thạch,Vĩnh Phúc,"4,85",6.93,1.428,2008,V
+Hợp Châu,Tam Đảo,Vĩnh Phúc,"9,99",10.267,1.028,2020,V
+Hợp Hòa,Tam Dương,Vĩnh Phúc,"8,61",11.154,1.295,2003,V
+Hương Canh,Bình Xuyên,Vĩnh Phúc,"9,95",16.341,1.642,1995,V
+Kim Long,Tam Dương,Vĩnh Phúc,"15,1",12.55,831,2023,V
+Lập Thạch,Lập Thạch,Vĩnh Phúc,"4,15",5.568,1.341,1995,V
+Tam Đảo,Tam Đảo,Vĩnh Phúc,"2,14",734,343,1966,V
+Tam Hồng,Yên Lạc,Vĩnh Phúc,"9,3",16.506,1.775,2023,V
+Tam Sơn,Sông Lô,Vĩnh Phúc,"3,76",7.655,2.035,2008,V
+Thanh Lãng,Bình Xuyên,Vĩnh Phúc,"9,48",13.437,1.417,2007,V
+Thổ Tang,Vĩnh Tường,Vĩnh Phúc,"5,27",16.853,3.197,2007,V
+Tứ Trưng,Vĩnh Tường,Vĩnh Phúc,"4,97",7.177,1.444,2011,V
+Vĩnh Tường,Vĩnh Tường,Vĩnh Phúc,"3,31",3.873,1.17,1995,V
+Yên Lạc,Yên Lạc,Vĩnh Phúc,"6,44",14.986,2.327,1997,V
+Cẩm Xuyên,Cẩm Xuyên,Hà Tĩnh,"15,53",12.857,828,1986,V
+Đồng Lộc,Can Lộc,Hà Tĩnh,"18,69",6.076,325,2018,V
+Đức Thọ,Đức Thọ,Hà Tĩnh,"6,70",11.728,1.75,1953,V
+Hương Khê,Hương Khê,Hà Tĩnh,"5,66",11.435,2.02,1985,V
+Lộc Hà,Lộc Hà,Hà Tĩnh,"9,39",9.624,1.025,2019,V
+Nghèn,Can Lộc,Hà Tĩnh,"18,33",16.913,923,1998,V
+Phố Châu,Hương Sơn,Hà Tĩnh,"4,22",8.481,2.01,1988,V
+Tây Sơn,Hương Sơn,Hà Tĩnh,"4,20",5.859,1.395,1997,V
+Thạch Hà,Thạch Hà,Hà Tĩnh,"14,93",13.647,914,2001,V
+Thiên Cầm,Cẩm Xuyên,Hà Tĩnh,"14,07",4.939,353,2003,V
+Tiên Điền,Nghi Xuân,Hà Tĩnh,"5,05",5.656,1.12,2019,V
+Vũ Quang,Vũ Quang,Hà Tĩnh,"37,86",3.835,101,2003,V
+Xuân An,Nghi Xuân,Hà Tĩnh,"10,46",11,1.052,1994,V
+Anh Sơn,Anh Sơn,Nghệ An,"2,86",5.401,1.888,1988,V
+Cầu Giát,Quỳnh Lưu,Nghệ An,"2,82",9.595,3.403,1953,V
+Con Cuông,Con Cuông,Nghệ An,"2,5",5.653,2.261,1988,V
+Diễn Châu,Diễn Châu,Nghệ An,"0,82",6.896,8.41,1977,V
+Đô Lương,Đô Lương,Nghệ An,"2,31",10.102,4.373,1990,V
+Hưng Nguyên,Hưng Nguyên,Nghệ An,"7,03",9.66,1.374,1998,V
+Kim Sơn,Quế Phong,Nghệ An,"23,44",7.897,337,1990,V
+Mường Xén,Kỳ Sơn,Nghệ An,"1,25",2.952,2.362,1984,V
+Nam Đàn,Nam Đàn,Nghệ An,"18,70",20.6,1.102,1987,V
+Nghĩa Đàn,Nghĩa Đàn,Nghệ An,"8,53",5.558,652,2011,V
+Quán Hành,Nghi Lộc,Nghệ An,"3,9",9.02,2.312,1986,V
+Quỳ Hợp,Quỳ Hợp,Nghệ An,"7,31",11.98,1.639,1983,V
+Tân Kỳ,Tân Kỳ,Nghệ An,"7,35",7.976,1.085,1988,V
+Tân Lạc,Quỳ Châu,Nghệ An,"5,48",4.958,905,1990,V
+Thạch Giám,Tương Dương,Nghệ An,"69,30",7.6,110,2019,V
+Thanh Chương,Thanh Chương,Nghệ An,"2,84",8.964,3.156,1984,V
+Yên Thành,Yên Thành,Nghệ An,"2,63",4.855,1.846,1986,V
+Đồng Lê,Tuyên Hóa,Quảng Bình,"10,72",6.071,566,1999,V
+Hoàn Lão,Bố Trạch,Quảng Bình,"13,04",11.493,881,1986,IV
+Kiến Giang,Lệ Thủy,Quảng Bình,"3,14",6.453,2.055,1986,IV
+Nông trường Lệ Ninh,Lệ Thủy,Quảng Bình,"11,35",5.296,466,1965,V
+Nông trường Việt Trung,Bố Trạch,Quảng Bình,"86,04",9.782,113,1966,V
+Phong Nha,Bố Trạch,Quảng Bình,"99,48",12.475,125,2020,V
+Quán Hàu,Quảng Ninh,Quảng Bình,"3,24",4.993,1.541,1999,V
+Quy Đạt,Minh Hóa,Quảng Bình,"15,27",7.608,498,2000,V
+Ái Tử,Triệu Phong,Quảng Trị,"3,45",4.32,1.252,1994,V
+Bến Quan,Vĩnh Linh,Quảng Trị,"3,96",3.385,855,1994,V
+Cam Lộ,Cam Lộ,Quảng Trị,"9,92",6.981,704,1994,V
+Cửa Tùng,Vĩnh Linh,Quảng Trị,"10,47",8.336,796,2009,V
+Cửa Việt,Gio Linh,Quảng Trị,"7,34",4.5,613,2005,V
+Diên Sanh,Hải Lăng,Quảng Trị,"24,60",8.504,346,2019,V
+Gio Linh,Gio Linh,Quảng Trị,"7,53",7.002,930,1994,V
+Hồ Xá,Vĩnh Linh,Quảng Trị,"6,92",13,1.879,1994,V
+Khe Sanh,Hướng Hóa,Quảng Trị,"12,88",13.927,1.081,1984,V
+Krông Klang,Đakrông,Quảng Trị,"18,21",4.732,260,2004,V
+Lao Bảo,Hướng Hóa,Quảng Trị,"17,17",12.862,749,1994,V
+Bến Sung,Như Thanh,Thanh Hóa,"21,92",10.251,468,2002,V
+Bút Sơn,Hoằng Hóa,Thanh Hóa,"7,72",12.089,1.566,1989,V
+Cành Nàng,Bá Thước,Thanh Hóa,"25,22",9.597,381,1994,V
+Hà Trung,Hà Trung,Thanh Hóa,"5,11",9.196,1.8,1988,V
+Hậu Lộc,Hậu Lộc,Thanh Hóa,"9,89",11.574,1.17,1989,V
+Hậu Hiền,Thiệu Hóa,Thanh Hóa,"10,41",12.061,1.159,2023,V
+Hồi Xuân,Quan Hóa,Thanh Hóa,"72,81",7.214,99,2019,V
+Kim Tân,Thạch Thành,Thanh Hóa,"10,76",10.623,987,1990,V
+Lam Sơn,Thọ Xuân,Thanh Hóa,"8,91",10.89,1.222,1991,IV
+Lang Chánh,Lang Chánh,Thanh Hóa,"26,82",9.479,353,1991,V
+Mường Lát,Mường Lát,Thanh Hóa,"129,66",7.084,55,2003,V
+Nga Sơn,Nga Sơn,Thanh Hóa,"7,08",12.2,1.723,1988,V
+Ngọc Lặc,Ngọc Lặc,Thanh Hóa,"35,13",22.364,637,1988,IV
+Nông Cống,Nông Cống,Thanh Hóa,"11,34",14.005,1.235,1987,V
+Nưa,Triệu Sơn,Thanh Hóa,"21,20",9.638,455,2019,V
+Phong Sơn,Cẩm Thủy,Thanh Hóa,"34,42",18.84,547,2019,V
+Quán Lào,Yên Định,Thanh Hóa,"8,24",11.729,1.423,1989,V
+Quý Lộc,Yên Định,Thanh Hóa,"13,56",15.008,1.107,2021,V
+Rừng Thông,Đông Sơn,Thanh Hóa,"6,03",9.41,1.561,1992,V
+Sao Vàng,Thọ Xuân,Thanh Hóa,"18,69",9.397,503,1999,IV
+Sơn Lư,Quan Sơn,Thanh Hóa,"54,01",5.366,99,2019,V
+Tân Phong,Quảng Xương,Thanh Hóa,"14,63",20.603,1.408,2019,V
+Thiệu Hóa,Thiệu Hóa,Thanh Hóa,"10,68",16.95,1.587,2019,V
+Thọ Xuân,Thọ Xuân,Thanh Hóa,"4,78",8.102,1.986,1965,V
+Thống Nhất,Yên Định,Thanh Hóa,"17,08",7.794,456,2009,V
+Thường Xuân,Thường Xuân,Thanh Hóa,"49,53",9.33,188,1988,V
+Triệu Sơn,Triệu Sơn,Thanh Hóa,"8,50",14.938,1.757,1988,V
+Vân Du,Thạch Thành,Thanh Hóa,"44,52",9.162,206,2004,V
+Vĩnh Lộc,Vĩnh Lộc,Thanh Hóa,"5,43",7.547,1.39,1992,V
+Yên Cát,Như Xuân,Thanh Hóa,"31,27",8.527,273,1989,V
+Yên Lâm,Yên Định,Thanh Hóa,"17,25",8.683,503,2021,V
+A Lưới,A Lưới,Thừa Thiên Huế,"13,52",7.682,568,1995,V
+Khe Tre,Nam Đông,Thừa Thiên Huế,"4,32",3.48,806,1997,V
+Lăng Cô,Phú Lộc,Thừa Thiên Huế,"105,5",11.489,108,2002,V
+Phong Điền,Phong Điền,Thừa Thiên Huế,"18,86",7.479,397,1995,V
+Phú Đa,Phú Vang,Thừa Thiên Huế,"29,9",10.592,354,2011,V
+Phú Lộc,Phú Lộc,Thừa Thiên Huế,"27,19",11.154,410,1986,V
+Sịa,Quảng Điền,Thừa Thiên Huế,"11,89",10.028,843,1997,V
+An Lão,An Lão,Bình Định,"16,46",4.12,255,2007,V
+Bình Dương,Phù Mỹ,Bình Định,"3,39",8.843,2.608,2002,V
+Cát Tiến,Phù Cát,Bình Định,"17,64",11.597,657,2021,V
+Diêu Trì,Tuy Phước,Bình Định,"5,47",19.051,3.482,1994,V
+Ngô Mây,Phù Cát,Bình Định,"7,55",15.782,2.09,1987,V
+Phù Mỹ,Phù Mỹ,Bình Định,"10,55",16.954,1.607,1991,V
+Phú Phong,Tây Sơn,Bình Định,"11,58",19.698,1.701,1979,IV
+Tăng Bạt Hổ,Hoài Ân,Bình Định,"5,8",7.755,1.337,1986,V
+Tuy Phước,Tuy Phước,Bình Định,"6,36",18.297,2.876,1987,V
+Vân Canh,Vân Canh,Bình Định,"20,26",6.741,333,2002,V
+Vĩnh Thạnh,Vĩnh Thạnh,Bình Định,"9,36",6.25,668,2005,V
+Chợ Lầu,Bắc Bình,Bình Thuận,"32,56",13.368,410,1992,V
+Đức Tài,Đức Linh,Bình Thuận,"31,66",19.24,607,1999,V
+Lạc Tánh,Tánh Linh,Bình Thuận,"38,16",16.668,437,1999,V
+Liên Hương,Tuy Phong,Bình Thuận,"11,89",35.26,2.965,1983,V
+Lương Sơn,Bắc Bình,Bình Thuận,"29,93",13.843,462,2007,V
+Ma Lâm,Hàm Thuận Bắc,Bình Thuận,"15,51",13.958,899,1999,V
+Phan Rí Cửa,Tuy Phong,Bình Thuận,"14,94",45.805,3.066,1979,IV
+Phú Long,Hàm Thuận Bắc,Bình Thuận,"22,51",14.368,638,2003,V
+Tân Minh,Hàm Tân,Bình Thuận,7,6.38,911,2003,V
+Tân Nghĩa,Hàm Tân,Bình Thuận,"55,2",11.395,206,2007,V
+Thuận Nam,Hàm Thuận Nam,Bình Thuận,"28,7",14.697,512,1999,V
+Võ Xu,Đức Linh,Bình Thuận,"27,65",17.535,634,1999,V
+Cam Đức,Cam Lâm,Khánh Hòa,"10,05",16.602,1.652,2007,V
+Diên Khánh,Diên Khánh,Khánh Hòa,"3,95",19.914,5.042,1981,IV
+Khánh Vĩnh,Khánh Vĩnh,Khánh Hòa,"9,36",4.816,515,1989,V
+Tô Hạp,Khánh Sơn,Khánh Hòa,"16,15",4.647,288,1986,V
+Trường Sa,Trường Sa,Khánh Hòa,"0,15",30,200,2007,V
+Vạn Giã,Vạn Ninh,Khánh Hòa,"2,03",19.676,9.693,1979,IV
+Khánh Hải,Ninh Hải,Ninh Thuận,"10,8",16.425,1.521,1994,V
+Phước Dân,Ninh Phước,Ninh Thuận,"21,5",25.444,1.183,1993,V
+Tân Sơn,Ninh Sơn,Ninh Thuận,"17,64",11.301,641,2000,V
+Chí Thạnh,Tuy An,Phú Yên,"14,35",9.52,663,1979,V
+Củng Sơn,Sơn Hòa,Phú Yên,"22,21",10.106,455,1979,V
+Hai Riêng,Sông Hinh,Phú Yên,"31,12",11.275,362,1989,V
+La Hai,Đồng Xuân,Phú Yên,"21,04",8.994,427,1986,V
+Phú Hòa,Phú Hòa,Phú Yên,"17,79",8.976,505,2007,V
+Phú Thứ,Tây Hòa,Phú Yên,14,12.92,923,2013,V
+Ái Nghĩa,Đại Lộc,Quảng Nam,"12,3",17.493,1.422,1984,V
+Đông Phú,Quế Sơn,Quảng Nam,"12,69",13.036,1.027,1986,V
+Hà Lam,Thăng Bình,Quảng Nam,"11,7",17.425,1.489,1981,V
+Hương An,Quế Sơn,Quảng Nam,"11,17",8.267,740,2020,V
+Khâm Đức,Phước Sơn,Quảng Nam,"29,98",7.318,244,1986,V
+Nam Phước,Duy Xuyên,Quảng Nam,"14,5",22.911,1.58,1994,V
+Núi Thành,Núi Thành,Quảng Nam,"4,57",12.902,2.823,1984,IV
+Phú Thịnh,Phú Ninh,Quảng Nam,"6,48",4.302,664,2009,V
+Prao,Đông Giang,Quảng Nam,"31,2",4.699,151,1994,V
+Tân Bình,Hiệp Đức,Quảng Nam,"23,17",6.249,270,2020,V
+Thạnh Mỹ,Nam Giang,Quảng Nam,"206,58",7.616,37,1981,V
+Tiên Kỳ,Tiên Phước,Quảng Nam,"8,28",7.637,922,1981,V
+Trà My,Bắc Trà My,Quảng Nam,"20,35",7.253,356,1981,V
+Trung Phước,Nông Sơn,Quảng Nam,"49,24",11.466,233,2023,V
+Ba Tơ,Ba Tơ,Quảng Ngãi,"32,05",6.739,210,1990,V
+Châu Ổ,Bình Sơn,Quảng Ngãi,"8,20",13.027,1.589,1986,V
+Chợ Chùa,Nghĩa Hành,Quảng Ngãi,"7,4",9.093,1.229,1986,V
+Di Lăng,Sơn Hà,Quảng Ngãi,"56,92",9.972,175,1997,V
+La Hà,Tư Nghĩa,Quảng Ngãi,"4,6",9.079,1.973,1987,V
+Mộ Đức,Mộ Đức,Quảng Ngãi,"8,6",10.862,1.263,1992,V
+Sông Vệ,Tư Nghĩa,Quảng Ngãi,"2,63",8.925,3.393,1991,V
+Trà Xuân,Trà Bồng,Quảng Ngãi,"6,09",8.431,1.384,1999,V
+Buôn Trấp,Krông Ana,Đắk Lắk,"31,2",23.145,742,1984,IV
+Ea Drăng,Ea H'leo,Đắk Lắk,"16,88",19.813,1.174,1998,IV
+Ea Kar,Ea Kar,Đắk Lắk,"24,44",13.386,547,1989,IV
+Ea Knốp,Ea Kar,Đắk Lắk,"27,58",11.268,408,1986,V
+Ea Pốk,Cư M'gar,Đắk Lắk,"39,89",14.824,371,1984,V
+Ea Súp,Ea Súp,Đắk Lắk,"13,5",12.94,959,1998,V
+Krông Kmar,Krông Bông,Đắk Lắk,"5,3",6.782,1.28,1998,V
+Pơng Drang,Krông Búk,Đắk Lắk,"31,24",17.988,576,2023,V
+Krông Năng,Krông Năng,Đắk Lắk,"24,83",12.775,514,1995,V
+Liên Sơn,Lắk,Đắk Lắk,"12,42",6.416,517,,V
+M'Drắk,M'Drắk,Đắk Lắk,6,5.936,989,1989,V
+Phước An,Krông Pắc,Đắk Lắk,"9,81",17.857,1.82,1996,IV
+Quảng Phú,Cư M'gar,Đắk Lắk,"9,73",26.733,2.748,1998,IV
+Đắk Mâm,Krông Nô,Đắk Nông,"25,82",7.288,282,1999,V
+Đắk Mil,Đắk Mil,Đắk Nông,5,11.487,2.297,1989,IV
+Đức An,Đắk Song,Đắk Nông,"12,93",6.653,515,2007,V
+Ea T'ling,Cư Jút,Đắk Nông,"21,69",16.893,779,1992,IV
+Kiến Đức,Đắk R'lấp,Đắk Nông,"15,6",10.808,693,1999,IV
+Chư Prông,Chư Prông,Gia Lai,"20,15",10.81,536,1981,V
+Chư Sê,Chư Sê,Gia Lai,"28,13",29.007,1.031,1988,IV
+Chư Ty,Đức Cơ,Gia Lai,"15,4",12.806,832,1991,V
+Đak Đoa,Đak Đoa,Gia Lai,"22,1",16.757,758,2000,V
+Đak Pơ,Đak Pơ,Gia Lai,"21,78",5.085,233,2013,V
+Ia Kha,Ia Grai,Gia Lai,"31,09",11.539,371,1996,V
+Ia Ly,Chư Păh,Gia Lai,"48,45",6.35,131,2013,V
+Kbang,Kbang,Gia Lai,"20,9",16.07,769,1988,V
+Kon Dơng,Mang Yang,Gia Lai,18,10.185,566,1999,V
+Kông Chro,Kông Chro,Gia Lai,"25,6",10.433,408,1988,V
+Nhơn Hòa,Chư Pưh,Gia Lai,21,12.395,590,2008,V
+Phú Hòa,Chư Păh,Gia Lai,"25,8",8.312,322,1996,V
+Phú Thiện,Phú Thiện,Gia Lai,"15,1",20.18,1.336,1998,V
+Phú Túc,Krông Pa,Gia Lai,"20,4",11.963,586,1989,V
+Đăk Glei,Đăk Glei,Kon Tum,"87,5",6.824,78,1996,V
+Đăk Hà,Đăk Hà,Kon Tum,"15,8",16.031,1.015,1994,V
+Đăk Rve,Kon Rẫy,Kon Tum,"51,6",5.167,100,2002,V
+Đăk Tô,Đăk Tô,Kon Tum,"39,9",13.561,340,1988,V
+Măng Đen,Kon Plông,Kon Tum,"148,07",6.913,47,2019,V
+Plei Kần,Ngọc Hồi,Kon Tum,"25,1",18.114,722,1991,IV
+Sa Thầy,Sa Thầy,Kon Tum,"14,73",11.027,749,1990,V
+Cát Tiên,Cát Tiên,Lâm Đồng,"20,26",16.5,814,2013,V
+D'Ran,Đơn Dương,Lâm Đồng,"133,3",19.127,143,1989,V
+Di Linh,Di Linh,Lâm Đồng,"24,65",25.08,1.017,1981,V
+Đạ M'ri,Đạ Huoai,Lâm Đồng,"126,46",5.708,45,1986,V
+Đạ Tẻh,Đạ Tẻh,Lâm Đồng,25,15.89,636,1986,V
+Đinh Văn,Lâm Hà,Lâm Đồng,"34,6",20.815,601,1987,V
+Lạc Dương,Lạc Dương,Lâm Đồng,"70,61",10.62,150,1979,V
+Liên Nghĩa,Đức Trọng,Lâm Đồng,"37,4",47.276,1.264,1985,IV
+Lộc Thắng,Bảo Lâm,Lâm Đồng,"80,3",19.557,244,1994,V
+Ma Đa Guôi,Đạ Huoai,Lâm Đồng,"25,7",13.8,536,1979,V
+Nam Ban,Lâm Hà,Lâm Đồng,"20,89",15.342,734,1987,V
+Phước Cát,Cát Tiên,Lâm Đồng,"16,95",10.924,644,2018,V
+Thạnh Mỹ,Đơn Dương,Lâm Đồng,"21,31",14.085,660,1987,V
+Đất Đỏ,Đất Đỏ,Bà Rịa – Vũng Tàu,"22,14",23,1.038,2006,V
+Long Điền,Long Điền,Bà Rịa – Vũng Tàu,"14,29",20.595,1.441,1982,V
+Long Hải,Long Điền,Bà Rịa – Vũng Tàu,"10,52",43.162,4.102,1982,V
+Ngãi Giao,Châu Đức,Bà Rịa – Vũng Tàu,"13,96",20.118,1.441,1994,V
+Phước Bửu,Xuyên Mộc,Bà Rịa – Vũng Tàu,"9,19",18.043,1.963,1995,V
+Phước Hải,Đất Đỏ,Bà Rịa – Vũng Tàu,"16,56",24.085,1.454,2006,V
+Dầu Tiếng,Dầu Tiếng,Bình Dương,"29,88",16.427,549,1994,V
+Lai Uyên,Bàu Bàng,Bình Dương,"88,36",32.028,362,2018,V
+Phước Vĩnh,Phú Giáo,Bình Dương,"32,56",16.065,493,1994,V
+Tân Bình,Bắc Tân Uyên,Bình Dương,"28,93",9.879,341,2020,V
+Tân Thành,Bắc Tân Uyên,Bình Dương,"26,88",8.568,319,2018,V
+Đức Phong,Bù Đăng,Bình Phước,"10,10",11.067,1.095,1994,V
+Lộc Ninh,Lộc Ninh,Bình Phước,"7,79",10.424,1.338,1994,V
+Tân Khai,Hớn Quản,Bình Phước,"42,75",15.269,357,2018,V
+Tân Phú,Đồng Phú,Bình Phước,"31,02",5.631,181,2002,V
+Thanh Bình,Bù Đốp,Bình Phước,"14,51",13.519,931,2005,V
+Dầu Giây,Thống Nhất,Đồng Nai,"14,14",23.721,1.677,2019,V
+Định Quán,Định Quán,Đồng Nai,"9,95",28.021,2.816,1985,V
+Gia Ray,Xuân Lộc,Đồng Nai,"13,96",29.125,2.086,1993,V
+Hiệp Phước,Nhơn Trạch,Đồng Nai,"18,83",38.645,2.052,2019,V
+Long Giao,Cẩm Mỹ,Đồng Nai,"33,75",10.524,312,2021,V
+Long Thành,Long Thành,Đồng Nai,"9,15",45.378,4.959,,IV
+Tân Phú,Tân Phú,Đồng Nai,"8,19",25.312,3.09,1991,V
+Trảng Bom,Trảng Bom,Đồng Nai,"9,77",40.028,4.097,1994,IV
+Vĩnh An,Vĩnh Cửu,Đồng Nai,"32,94",26.531,805,1994,V
+Cần Thạnh,Cần Giờ,Thành phố Hồ Chí Minh,"24,09",17.442,724,2005,V
+Củ Chi,Củ Chi,Thành phố Hồ Chí Minh,"3,82",30.063,7.869,1985,V
+Hóc Môn,Hóc Môn,Thành phố Hồ Chí Minh,"1,75",40.146,22.94,1977,V
+Nhà Bè,Nhà Bè,Thành phố Hồ Chí Minh,"5,95",52.427,8.811,1986,V
+Tân Túc,Bình Chánh,Thành phố Hồ Chí Minh,"8,56",51.462,6.011,2003,V
+Bến Cầu,Bến Cầu,Tây Ninh,"6,38",13.378,2.096,1999,V
+Châu Thành,Châu Thành,Tây Ninh,"7,55",16.004,2.119,1998,V
+Dương Minh Châu,Dương Minh Châu,Tây Ninh,"4,65",9.07,1.95,1998,V
+Gò Dầu,Gò Dầu,Tây Ninh,"6,02",34.068,5.659,1963,V
+Tân Biên,Tân Biên,Tây Ninh,"8,21",15.674,1.909,1994,V
+Tân Châu,Tân Châu,Tây Ninh,"7,54",12.271,1.627,1994,V
+An Châu,Châu Thành,An Giang,"12,85",23.921,1.861,1979,IV
+An Phú,An Phú,An Giang,"8,16",13.427,1.645,1984,V
+Ba Chúc,Tri Tôn,An Giang,"20,56",16.31,793,2003,V
+Cái Dầu,Châu Phú,An Giang,"6,39",17.971,2.812,1979,IV
+Chợ Mới,Chợ Mới,An Giang,"2,93",21.874,7.465,,IV
+Chợ Vàm,Phú Tân,An Giang,"17,06",22.845,1.339,1979,V
+Cô Tô,Tri Tôn,An Giang,"42,45",9.567,225,2020,V
+Đa Phước,An Phú,An Giang,"15,76",17.59,1.116,2023,V
+Hội An,Chợ Mới,An Giang,"22,98",18.225,793,2023,V
+Long Bình,An Phú,An Giang,"4,22",10.795,2.558,2006,V
+Mỹ Luông,Chợ Mới,An Giang,"9,51",17.38,1.827,2003,V
+Núi Sập,Thoại Sơn,An Giang,"9,49",25.592,2.696,1979,IV
+Óc Eo,Thoại Sơn,An Giang,"9,89",13.5,1.365,2003,V
+Phú Hòa,Thoại Sơn,An Giang,"7,43",18.625,2.507,2002,V
+Phú Mỹ,Phú Tân,An Giang,"7,01",25,3.566,1997,IV
+Tri Tôn,Tri Tôn,An Giang,"8,7",18.095,2.079,1979,IV
+Vĩnh Bình,Châu Thành,An Giang,"37,44",9.762,261,2020,V
+Vĩnh Thạnh Trung,Châu Phú,An Giang,"28,43",29.528,1.039,2020,V
+Châu Hưng,Vĩnh Lợi,Bạc Liêu,"34,2",12.794,374,2007,V
+Gành Hào,Đông Hải,Bạc Liêu,"11,45",17.365,1.516,1979,V
+Hòa Bình,Hòa Bình,Bạc Liêu,"26,72",22,823,1987,V
+Ngan Dừa,Hồng Dân,Bạc Liêu,"19,19",18.453,961,1979,V
+Phước Long,Phước Long,Bạc Liêu,"46,07",18.555,402,1979,V
+Ba Tri,Ba Tri,Bến Tre,"5,80",19.9,3.431,1981,IV
+Tiệm Tôm,Ba Tri,Bến Tre,"22,36",20.79,930,2023,V
+Bình Đại,Bình Đại,Bến Tre,"13,5",28.7,2.125,1981,IV
+Châu Thành,Châu Thành,Bến Tre,"3,14",5.63,1.792,1995,V
+Tiên Thủy,Châu Thành,Bến Tre,"18,32",13.808,753,2023,V
+Chợ Lách,Chợ Lách,Bến Tre,"8,13",11.836,1.455,1981,V
+Giồng Trôm,Giồng Trôm,Bến Tre,"11,55",12.547,1.086,1981,V
+Phước Mỹ Trung,Mỏ Cày Bắc,Bến Tre,"8,32",9.879,1.187,2023,V
+Mỏ Cày,Mỏ Cày Nam,Bến Tre,"5,22",18.59,3.561,1981,IV
+Thạnh Phú,Thạnh Phú,Bến Tre,"11,39",12.4,1.088,1994,V
+Cái Đôi Vàm,Phú Tân,Cà Mau,"19,09",18.62,975,1994,V
+Cái Nước,Cái Nước,Cà Mau,"25,49",16.892,662,1987,V
+Đầm Dơi,Đầm Dơi,Cà Mau,"10,63",9.442,888,1984,V
+Năm Căn,Năm Căn,Cà Mau,"9,45",21.835,2.304,1987,IV
+Rạch Gốc,Ngọc Hiển,Cà Mau,"52,72",8.945,169,2009,V
+Sông Đốc,Trần Văn Thời,Cà Mau,"27,40",42.051,1.534,1984,IV
+Thới Bình,Thới Bình,Cà Mau,"21,55",15.534,720,1979,V
+Trần Văn Thời,Trần Văn Thời,Cà Mau,"20,94",16,764,1984,V
+U Minh,U Minh,Cà Mau,"18,39",7.106,386,1979,V
+Cờ Đỏ,Cờ Đỏ,Cần Thơ,"7,58",12.663,1.67,1998,V
+Phong Điền,Phong Điền,Cần Thơ,"7,54",11.852,1.571,2007,V
+Thạnh An,Vĩnh Thạnh,Cần Thơ,"17,82",18.67,1.047,2000,V
+Thới Lai,Thới Lai,Cần Thơ,"9,47",10.183,1.075,2000,V
+Vĩnh Thạnh,Vĩnh Thạnh,Cần Thơ,"7,38",4.921,666,2007,V
+Cái Tàu Hạ,Châu Thành,Đồng Tháp,"2,6",9.142,3.516,1988,V
+Lai Vung,Lai Vung,Đồng Tháp,"7,48",8.108,1.083,1999,V
+Lấp Vò,Lấp Vò,Đồng Tháp,"4,54",10.497,2.312,1999,IV
+Mỹ An,Tháp Mười,Đồng Tháp,"18,44",16.611,900,1984,IV
+Mỹ Thọ,Cao Lãnh,Đồng Tháp,"8,86",12.868,1.452,1987,IV
+Sa Rài,Tân Hồng,Đồng Tháp,7,11.36,1.662,1989,V
+Thanh Bình,Thanh Bình,Đồng Tháp,"7,71",12.302,1.595,1987,V
+Thường Thới Tiền,Hồng Ngự,Đồng Tháp,"15,83",17.496,1.105,2019,V
+Tràm Chim,Tam Nông,Đồng Tháp,"12,32",10.349,840,1999,V
+Bảy Ngàn,Châu Thành A,Hậu Giang,"13,03",11.99,920,2009,V
+Búng Tàu,Phụng Hiệp,Hậu Giang,"15,19",7.143,470,2011,V
+Cái Tắc,Châu Thành A,Hậu Giang,"10,5",11.14,1.06,2007,V
+Cây Dương,Phụng Hiệp,Hậu Giang,"15,12",7.981,527,2000,V
+Kinh Cùng,Phụng Hiệp,Hậu Giang,13,10.288,791,2000,V
+Mái Dầm,Châu Thành,Hậu Giang,"16,02",11.737,732,2011,V
+Một Ngàn,Châu Thành A,Hậu Giang,"7,3",6.756,925,2003,V
+Nàng Mau,Vị Thủy,Hậu Giang,"6,24",5.138,823,1999,V
+Ngã Sáu,Châu Thành,Hậu Giang,"14,23",9.189,646,2001,V
+Rạch Gòi,Châu Thành A,Hậu Giang,"9,78",10.073,1.029,2007,V
+Vĩnh Viễn,Long Mỹ,Hậu Giang,"40,72",11.142,273,2019,V
+Giồng Riềng,Giồng Riềng,Kiên Giang,"22,69",16.441,724,1988,V
+Gò Quao,Gò Quao,Kiên Giang,"19,54",9.892,506,1988,V
+Hòn Đất,Hòn Đất,Kiên Giang,"33,01",19.786,599,1988,V
+Kiên Lương,Kiên Lương,Kiên Giang,35,35,1,1983,IV
+Minh Lương,Châu Thành,Kiên Giang,"19,17",19.191,1.001,1988,V
+Sóc Sơn,Hòn Đất,Kiên Giang,"22,07",15.082,683,2004,V
+Tân Hiệp,Tân Hiệp,Kiên Giang,"32,17",19.929,619,1988,V
+Thứ Ba,An Biên,Kiên Giang,"15,31",10.703,699,1979,V
+Thứ Mười Một,An Minh,Kiên Giang,"11,83",5.64,476,1988,V
+Vĩnh Thuận,Vĩnh Thuận,Kiên Giang,"21,85",13.293,608,1979,V
+Bến Lức,Bến Lức,Long An,"8,70",27.314,3.139,1979,IV
+Bình Phong Thạnh,Mộc Hóa,Long An,"46,25",8.486,183,2019,V
+Cần Đước,Cần Đước,Long An,"5,75",23.808,4.14,1979,IV
+Cần Giuộc,Cần Giuộc,Long An,"21,05",53.877,2.559,1976,IV
+Đông Thành,Đức Huệ,Long An,"8,13",8.565,1.053,1991,V
+Đức Hòa,Đức Hòa,Long An,"6,95",50.537,7.271,,IV
+Hậu Nghĩa,Đức Hòa,Long An,"12,43",36.825,2.962,,IV
+Hiệp Hòa,Đức Hòa,Long An,"9,9",18.612,1.88,1991,V
+Tầm Vu,Châu Thành,Long An,"3,44",8.932,2.596,1992,V
+Tân Hưng,Tân Hưng,Long An,"5,1",8.447,1.656,1994,V
+Tân Thạnh,Tân Thạnh,Long An,"7,7",5.274,684,1992,V
+Tân Trụ,Tân Trụ,Long An,"5,69",5.804,1.02,1991,V
+Thạnh Hóa,Thạnh Hóa,Long An,14,5.16,368,1989,V
+Thủ Thừa,Thủ Thừa,Long An,"8,79",14.441,1.643,1979,V
+Vĩnh Hưng,Vĩnh Hưng,Long An,"5,01",8.062,1.609,1991,V
+An Lạc Thôn,Kế Sách,Sóc Trăng,"20,15",11.39,565,2013,V
+Châu Thành,Châu Thành,Sóc Trăng,"7,41",8.592,1.159,2009,V
+Cù Lao Dung,Cù Lao Dung,Sóc Trăng,"9,06",5.148,568,2002,V
+Đại Ngãi,Long Phú,Sóc Trăng,"7,91",10.099,1.276,2011,V
+Huỳnh Hữu Nghĩa,Mỹ Tú,Sóc Trăng,"11,43",6.169,539,,V
+Hưng Lợi,Thạnh Trị,Sóc Trăng,"14,97",11.901,794,2009,V
+Kế Sách,Kế Sách,Sóc Trăng,"14,61",13.735,940,,V
+Lịch Hội Thượng,Trần Đề,Sóc Trăng,"20,79",14.747,709,2009,V
+Long Phú,Long Phú,Sóc Trăng,"26,22",14.08,536,,V
+Mỹ Xuyên,Mỹ Xuyên,Sóc Trăng,"14,95",14.936,999,,V
+Phú Lộc,Thạnh Trị,Sóc Trăng,"25,8",14.586,565,,V
+Trần Đề,Trần Đề,Sóc Trăng,"18,83",15.013,797,2009,V
+Bình Phú,Cai Lậy,Tiền Giang,"19,07",18.502,970,2022,V
+Cái Bè,Cái Bè,Tiền Giang,"4,14",14.794,3.573,,V
+Chợ Gạo,Chợ Gạo,Tiền Giang,"3,04",7.517,2.473,,V
+Mỹ Phước,Tân Phước,Tiền Giang,"40,28",6.678,166,1994,V
+Tân Hiệp,Châu Thành,Tiền Giang,"0,74",6.242,8.435,,V
+Tân Hòa,Gò Công Đông,Tiền Giang,"3,25",6.83,2.102,1987,V
+Vàm Láng,Gò Công Đông,Tiền Giang,"6,00",14.302,2.384,2010,V
+Vĩnh Bình,Gò Công Tây,Tiền Giang,"7,69",11.854,1.541,1979,V
+Càng Long,Càng Long,Trà Vinh,"12,52",15.223,1.216,1996,V
+Cầu Kè,Cầu Kè,Trà Vinh,"2,97",6.343,2.136,1995,V
+Cầu Ngang,Cầu Ngang,Trà Vinh,"1,99",6.267,3.149,1991,V
+Cầu Quan,Tiểu Cần,Trà Vinh,"5,63",9.543,1.695,1995,V
+Châu Thành,Châu Thành,Trà Vinh,"3,46",5.702,1.648,1984,V
+Định An,Trà Cú,Trà Vinh,"4,04",5.444,1.348,2008,V
+Long Thành,Duyên Hải,Trà Vinh,"5,21",6.18,1.385,2012,V
+Mỹ Long,Cầu Ngang,Trà Vinh,"4,80",6.743,1.405,1995,V
+Tiểu Cần,Tiểu Cần,Trà Vinh,"4,02",6.441,1.602,1994,IV
+Trà Cú,Trà Cú,Trà Vinh,"2,95",6.744,2.286,1994,V
+Cái Nhum,Mang Thít,Vĩnh Long,"16,16",11.557,715,1994,V
+Long Hồ,Long Hồ,Vĩnh Long,"15,30",9.784,640,1991,V
+Tam Bình,Tam Bình,Vĩnh Long,"1,67",5.158,3.089,1985,V
+Tân Quới,Bình Tân,Vĩnh Long,"14,72",20.153,1.369,2020,V
+Trà Ôn,Trà Ôn,Vĩnh Long,"2,31",11.513,4.984,1981,V
+Vũng Liêm,Vũng Liêm,Vĩnh Long,"4,72",6.934,1.469,1985,V
+An Khê,An Khê,Gia Lai,1979,2004,thành lập phường,"Phường An Bình, Tây Sơn, An Phú, An Tân",Thị xã An Khê
+An Lạc,Bình Chánh,Hồ Chí Minh,1981,2003,thành lập phường,"Phường An Lạc, An Lạc A",Quận Bình Tân
+An Lộc,Bình Long,Bình Phước,1994,2009,thành lập phường,"Phường An Lộc, Hưng Chiến, Phú Thịnh, Phú Đức",Thị xã Bình Long
+An Lưu,Kinh Môn,Hải Dương,1996,2004,đổi tên,Phường An Lưu,Thị xã Kinh Môn
+An Thạnh,Thuận An,Bình Dương,1994,2011,thành lập phường,Phường An Thạnh,Thành phố Thuận An
+An Thới,Phú Quốc,Kiên Giang,2003,2020,thành lập phường,Phường An Thới,Thành phố Phú Quốc
+Ayun Pa,Ayun Pa,Gia Lai,1979,2007,thành lập phường,"Phường Cheo Reo, Hòa Bình, Đoàn Kết, Sông Bờ",Thị xã Ayun Pa
+B'lao,Bảo Lộc,Lâm Đồng,,1994,thành lập phường,"Phường 1, 2, B'lao",Thành phố Bảo Lộc
+Ba Đình,Ba Tơ,Quảng Ngãi,1987,1990,đổi tên,Thị trấn Ba Tơ,Huyện Ba Tơ
+Ba Đồn,Quảng Trạch,Quảng Bình,1958,2013,thành lập phường,Phường Ba Đồn,Thị xã Ba Đồn
+Ba Hàng,Phổ Yên,Thái Nguyên,1972,2015,thành lập phường,Phường Ba Hàng,Thành phố Phổ Yên
+Ba Ngòi,Cam Ranh,Khánh Hòa,1978,2000,thành lập phường,"Phường Ba Ngòi, Cam Lộc, Cam Lợi, Cam Linh, Cam Thuận, Cam Phú",Thành phố Cam Ranh
+Bà Rịa,Châu Thành,Bà Rịa - Vũng Tàu,1982,1994,thành lập phường,"Phường Phước Hưng, Phước Hiệp, Phước Nguyên, Long Toàn, Phước Trung",Thành phố Bà Rịa
+Bạch Hạc,Việt Trì,Phú Thọ,,1984,thành lập phường,Phường Bạch Hạc,Thành phố Việt Trì
+Bãi Bông,Phổ Yên,Thái Nguyên,1972,2015,thành lập phường,Phường Bãi Bông,Thành phố Phổ Yên
+Bãi Cháy,Hồng Gai,Quảng Ninh,,1981,thành lập phường,Phường Bãi Cháy,Thành phố Hạ Long
+Bắc Kạn,Bạch Thông,Bắc Thái,1967,1990,thành lập phường,"Phường Đức Xuân, Phùng Chí Kiên, Sông Cầu",Thành phố Bắc Kạn
+Bắc Sơn,Phổ Yên,Thái Nguyên,2011,2015,thành lập phường,Phường Bắc Sơn,Thành phố Phổ Yên
+Bần Yên Nhân,Mỹ Hào,Hưng Yên,1989,2019,thành lập phường,Phường Bần Yên Nhân,Thị xã Mỹ Hào
+Bến Tắm,Chí Linh,Hải Dương,2002,2010,thành lập phường,Phường Bến Tắm,Thành phố Chí Linh
+Bích Động,Việt Yên,Bắc Giang,1997,2024,thành lập phường,Phường Bích Động,Thị xã Việt Yên
+Bỉm Sơn,Hà Trung,Thanh Hóa,1977,1981,thành lập phường,"Phường Ba Đình, Bắc Sơn, Lam Sơn, Ngọc Trạo, Đông Sơn",Thị xã Bỉm Sơn
+Bình Định,An Nhơn,Bình Định,1979,2011,thành lập phường,Phường Bình Định,Thị xã An Nhơn
+Bồng Sơn,Hoài Nhơn,Bình Định,1986,2020,thành lập phường,Phường Bồng Sơn,Thị xã Hoài Nhơn
+Buôn Hồ,Krông Búk,Đắk Lắk,1984,2008,thành lập phường,"Phường An Lạc, An Bình, Thiện An",Thị xã Buôn Hồ
+Cái Đôi,Phú Tân,Minh Hải,,1979,đổi tên,Xã Phú Tân,Huyện Phú Tân
+Cai Lậy,Cai Lậy,Tiền Giang,1976,2013,thành lập phường,"Phường 1, 2, 4, 5",Thị xã Cai Lậy
+Cái Răng,Châu Thành,Cần Thơ,,2004,thành lập phường,Phường Lê Bình,Quận Cái Răng
+Cái Vồn,Bình Minh,Vĩnh Long,,2012,thành lập phường,"Phường Cái Vồn, Thành Phước",Thị xã Bình Minh
+Can Lộc,Can Lộc,Hà Tĩnh,1984,1999,thành lập thị trấn mới,Thị trấn Nghèn,Huyện Can Lộc
+Cao Lãnh,Cao Lãnh,Đồng Tháp,,1983,thành lập phường,"Phường 1, 2, 3, 4",Thành phố Cao Lãnh
+Cao Thắng,Hồng Gai,Quảng Ninh,,1981,thành lập phường,"Phường Cao Thắng, Cao Xanh",Thành phố Hạ Long
+Cẩm Giàng,Cẩm Giàng,Hải Dương,1958,2019,thành lập thị trấn mới,Thị trấn Cẩm Giang,Huyện Cẩm Giàng
+Cẩm Thủy,Cẩm Thủy,Thanh Hóa,1989,2019,thành lập thị trấn mới,Thị trấn Phong Sơn,Huyện Cẩm Thủy
+Cầu Diễn,Từ Liêm,Hà Nội,1982,2013,thành lập phường,"Phường Cổ Nhuế 1, Cổ Nhuế 2, Phúc Diễn, Phú Diễn; Cầu Diễn","Quận Bắc Từ Liêm, Quận Nam Từ Liêm"
+Cầu Giấy,Từ Liêm,Hà Nội,1982,1996,thành lập phường,"Phường Quan Hoa, Dịch Vọng Hậu",Quận Cầu Giấy
+Cầu Gồ,Yên Thế,Bắc Giang,1994,2019,thành lập thị trấn mới,Thị trấn Phồn Xương,Huyện Yên Thế
+Chi Lăng,Tịnh Biên,An Giang,1979,2023,thành lập phường,Phường Chi Lăng,Thị xã Tịnh Biên
+Chợ Mới,Chợ Mới,Bắc Kạn,,2020,thành lập thị trấn mới,Thị trấn Đồng Tâm,Huyện Chợ Mới
+Chơn Thành,Chơn Thành,Bình Phước,1994,2022,thành lập phường,Phường Hưng Long,Thị xã Chơn Thành
+Chùa Hang,Đồng Hỷ,Thái Nguyên,1985,2019,thành lập phường,Phường Chùa Hang,Thành phố Thái Nguyên
+Chư Păh,Chư Păh,Gia Lai,1985,1996,đổi tên,Thị trấn Ia Kha,Huyện Ia Grai
+Cọc 5,Hồng Gai,Quảng Ninh,,1981,thành lập phường,"Phường Hồng Hà, Hồng Hải",Thành phố Hạ Long
+Cọc 6,Cẩm Phả,Quảng Ninh,,1981,thành lập phường,Phường Cẩm Phú,Thành phố Cẩm Phả
+Cửa Lò,Nghi Lộc,Nghệ An,1986,1994,thành lập phường,"Phường Nghi Tân, Nghi Thuỷ, Thu Thủy",Thị xã Cửa Lò
+Cửa Ông,Cẩm Phả,Quảng Ninh,,1981,thành lập phường,Phường Cửa Ông,Thành phố Cẩm Phả
+Dĩ An,Dĩ An,Bình Dương,1994,2011,thành lập phường,Phường Dĩ An,Thành phố Dĩ An
+Duy Xuyên,Duy Xuyên,Quảng Nam - Đà Nẵng,1986,1994,thành lập thị trấn mới,Thị trấn Nam Phước,Huyện Duy Xuyên
+Duyên Hải,Duyên Hải,Trà Vinh,1995,2015,thành lập phường,Phường 1,Thị xã Duyên Hải
+Dương Đông,Phú Quốc,Kiên Giang,,2020,thành lập phường,Phường Dương Đông,Thành phố Phú Quốc
+Đại Từ,Đại Từ,Thái Nguyên,,2013,thành lập thị trấn mới,Thị trấn Hùng Sơn,Huyện Đại Từ
+Đập Đá,An Nhơn,Bình Định,1997,2011,thành lập phường,Phường Đập Đá,Thị xã An Nhơn
+Điện Biên,Điện Biên,Lai Châu,,1992,thành lập phường,"Phường Mường Thanh, Him Lam",Thành phố Điện Biên Phủ
+Đồ Sơn,Đồ Sơn,Hải Phòng,1980,1988,thành lập phường,"Phường Vạn Hương, Ngọc Xuyên, Hải Sơn",Quận Đồ Sơn
+Đồng Nai,Cát Tiên,Lâm Đồng,1986,2013,thành lập thị trấn mới,Thị trấn Cát Tiên,Huyện Cát Tiên
+Đông Triều,Đông Triều,Quảng Ninh,,2015,thành lập phường,Phường Đông Triều,Thị xã Đông Triều
+Đồng Văn,Duy Tiên,Hà Nam,1984,2019,thành lập phường,Phường Đồng Văn,Thị xã Duy Tiên
+Đồng Xoài,Đồng Phú,Bình Phước,1994,1999,thành lập phường,"Phường Tân Đồng, Tân Xuân, Tân Bình",Thành phố Đồng Xoài
+Đức Giang,Gia Lâm,Hà Nội,1982,2003,thành lập phường,Phường Đức Giang,Quận Long Biên
+Đức Phổ,Đức Phổ,Quảng Ngãi,1987,2020,thành lập phường,Phường Nguyễn Nghiêm,Thị xã Đức Phổ
+Gia Lâm,Gia Lâm,Hà Nội,1961,2003,thành lập phường,"Phường Ngọc Lâm, Bồ Đề",Quận Long Biên
+Gia Nghĩa,Đắk Nông,Đắk Nông,,2005,thành lập phường,"Phường Nghĩa Đức, Nghĩa Thành, Nghĩa Phú, Nghĩa Trung, Nghĩa Tân",Thành phố Gia Nghĩa
+Giá Rai,Giá Rai,Bạc Liêu,1979,2015,thành lập phường,Phường 1,Thị xã Giá Rai
+Giếng Đáy,Hồng Gai,Quảng Ninh,1979,1981,thành lập phường,"Phường Giếng Đáy, Hà Khẩu",Thành phố Hạ Long
+Gò Công,Gò Công Đông,Tiền Giang,1979,1987,thành lập phường,"Phường 1, 2",Thành phố Gò Công
+Hà Cối,Quảng Hà,Quảng Ninh,,1979,đổi tên,Thị trấn Quảng Hà,Huyện Hải Hà
+Hà Lầm,Hồng Gai,Quảng Ninh,,1981,thành lập phường,"Phường Hà Lầm, Hà Trung, Hà Khánh",Thành phố Hạ Long
+Hà Nam,Thanh Liêm,Hà Nam Ninh,1977,1981,thành lập phường,"Phường Hai Bà Trưng, Lương Khánh Thiện, Minh Khai, Trần Hưng Đạo, Quang Trung",Thành phố Phủ Lý
+Hà Tiên,Hà Tiên,Kiên Giang,,1998,thành lập phường,"Phường Bình San, Đông Hồ, Tô Châu, Pháo Đài",Thành phố Hà Tiên
+Hà Tu,Hồng Gai,Quảng Ninh,,1981,thành lập phường,"Phường Hà Tu, Hà Phong",Thành phố Hạ Long
+Hải Lăng,Hải Lăng,Quảng Trị,1994,2019,thành lập thị trấn mới,Thị trấn Diên Sanh,Huyện Hải Lăng
+Hải Ninh,Móng Cái,Quảng Ninh,1979,1991,thành lập phường,"Phường Ka Long, Trần Phú, Hòa Lạc",Thành phố Móng Cái
+Hòa Bình,Tương Dương,Nghệ An,1989,2019,thành lập thị trấn mới,Thị trấn Thạch Giám,Huyện Tương Dương
+Hòa Hiệp Trung,Đông Hòa,Phú Yên,2013,2020,thành lập phường,Phường Hòa Hiệp Trung,Thị xã Đông Hòa
+Hòa Mạc,Duy Tiên,Hà Nam,1986,2019,thành lập phường,Phường Hòa Mạc,Thị xã Duy Tiên
+Hòa Thành,Hòa Thành,Tây Ninh,1979,2020,thành lập phường,Phường Long Hoa,Thị xã Hòa Thành
+Hòa Vinh,Đông Hòa,Phú Yên,2013,2020,thành lập phường,Phường Hòa Vinh,Thị xã Đông Hòa
+Hoàng Mai,Quỳnh Lưu,Nghệ An,2006,2013,thành lập phường,Phường Quỳnh Thiện,Thị xã Hoàng Mai
+Hồ,Thuận Thành,Bắc Ninh,1997,2023,thành lập phường,Phường Hồ,Thị xã Thuận Thành
+Hộ Phòng,Giá Rai,Bạc Liêu,1979,2015,thành lập phường,Phường Hộ Phòng,Thị xã Giá Rai
+Hồng Lĩnh,Đức Thọ,Hà Tĩnh,1981,1992,thành lập phường,Phường Bắc Hồng,Thị xã Hồng Lĩnh
+Hồng Ngự,Hồng Ngự,Đồng Tháp,,2008,thành lập phường,"Phường An Lộc, An Thạnh",Thành phố Hồng Ngự
+Hùng Quốc,Trà Lĩnh,Cao Bằng,1999,2020,đổi tên,Thị trấn Trà Lĩnh,Huyện Trùng Khánh
+Kiến An,Kiến An,Hải Phòng,1980,1988,thành lập phường,"Phường Quán Trữ, Lãm Hà, Bắc Sơn, Trần Thành Ngọ, Ngọc Sơn, Tràng Minh, Văn Đẩu, Phù Liễn",Quận Kiến An
+Kinh Môn,Kinh Môn,Hải Dương,2004,2019,thành lập phường,Phường An Lưu,Thị xã Kinh Môn
+Kon Plông,Kon Plông,Kon Tum,1996,2002,đổi tên,Thị trấn Đắk Rve,Huyện Kon Rẫy
+Krông Pắc,Krông Pắc,Đắk Lắk,,1996,đổi tên,Thị trấn Phước An,Huyện Krông Pắc
+Kỳ Anh,Kỳ Anh,Hà Tĩnh,1986,2015,thành lập phường,Phường Hưng Trí,Thị xã Kỳ Anh
+Kỳ Sơn,Kỳ Sơn,Hòa Bình,1994,2019,thành lập phường,Phường Kỳ Sơn,Thành phố Hòa Bình
+La Gi,Hàm Tân,Bình Thuận,1979,2006,thành lập phường,"Phường Phước Hội, Phước Lộc",Thị xã La Gi
+Lái Thiêu,Thuận An,Bình Dương,1994,2011,thành lập phường,Phường Lái Thiêu,Thành phố Thuận An
+Long Mỹ,Long Mỹ,Hậu Giang,,2015,thành lập phường,"Phường Bình Thạnh, Thuận An",Thị xã Long Mỹ
+Lục Nam,Lục Nam,Bắc Giang,1957,2019,sáp nhập,Thị trấn Đồi Ngô,Huyện Lục Nam
+Mai Dịch,Từ Liêm,Hà Nội,1990,1996,thành lập phường,Phường Mai Dịch,Quận Cầu Giấy
+Mang Yang,Mang Yang,Gia Lai,1990,2000,đổi tên,Thị trấn Đắk Đoa,Huyện Đắk Đoa
+Mạo Khê,Đông Triều,Quảng Ninh,,2015,thành lập phường,Phường Mạo Khê,Thị xã Đông Triều
+Minh Khai,Bạch Thông,Bắc Kạn,1990,1997,thành lập phường,Phường Nguyễn Thị Minh Khai,Thành phố Bắc Kạn
+Minh Tân,Kinh Môn,Hải Dương,2004,2019,thành lập phường,Phường Minh Tân,Thị xã Kinh Môn
+Mỏ Chè,Phổ Yên,Thái Nguyên,1972,1985,thành lập phường,"Phường Mỏ Chè, Châu Sơn, Thắng Lợi",Thành phố Sông Công
+Móng Cái,Hải Ninh,Quảng Ninh,1964,1998,thành lập phường,"Phường Ka Long, Trần Phú, Hòa Lạc",Thành phố Móng Cái
+Mộc Hóa,Mộc Hóa,Long An,,2013,thành lập phường,"Phường 1, 2",Thị xã Kiến Tường
+Mông Dương,Cẩm Phả,Quảng Ninh,,1981,"thành lập xã, phường","Phường Mông Dương, Xã Cẩm Hải",Thành phố Cẩm Phả
+Mường Ẳng,Tuần Giáo,Điện Biên,1997,2006,đổi tên,Thị trấn Mường Ảng,Huyện Mường Ảng
+Mường Lay,Mường Lay,Điện Biên,1977,1997,sáp nhập,Xã Lay Nưa,Thị xã Mường Lay
+Mường Lay,Mường Lay,Điện Biên,1997,2005,đổi tên,Thị trấn Mường Chà,Huyện Mường Chà
+Mường Khến,Tân Lạc,Hòa Bình,1988,2019,thành lập thị trấn mới,Thị trấn Mãn Đức,Huyện Tân Lạc
+Mỹ Phước,Bến Cát,Bình Dương,1994,2013,thành lập phường,Phường Mỹ Phước,Thành phố Bến Cát
+Năm Căn,Ngọc Hiển,Minh Hải,1979,1987,thành lập xã,Xã Hàng Vịnh,Huyện Năm Căn
+Neo,Yên Dũng,Bắc Giang,1994,2019,thành lập thị trấn mới,Thị trấn Nham Biền,Huyện Yên Dũng
+Nếnh,Việt Yên,Bắc Giang,2003,2024,thành lập phường,Phường Nếnh,Thị xã Việt Yên
+Ngã Năm,Ngã Năm,Sóc Trăng,,2013,thành lập phường,Phường 1,Thị xã Ngã Năm
+Nghi Xuân,Nghi Xuân,Hà Tĩnh,1988,2019,thành lập thị trấn mới,Thị trấn Tiên Điền,Huyện Nghi Xuân
+Nghĩa Đô,Từ Liêm,Hà Nội,1982,1996,thành lập phường,Phường Nghĩa Đô,Quận Cầu Giấy
+Nghĩa Lộ,Văn Chấn,Yên Bái,1978,1995,thành lập phường,"Phường Pú Trạng, Tân An, Trung Tâm, Cầu Thia",Thị xã Nghĩa Lộ
+Nghĩa Tân,Từ Liêm,Hà Nội,1992,1996,thành lập phường,Phường Nghĩa Tân,Quận Cầu Giấy
+Nhà Bàng,Tịnh Biên,An Giang,1986,2023,thành lập phường,Phường Nhà Bàng,Thị xã Tịnh Biên
+Nhồi,Đông Sơn,Thanh Hóa,2006,2012,thành lập phường,"Phường An Hoạch (2012), An Hưng (2019)",Thành phố Thanh Hóa
+Ninh Bình,Hoa Lư,Hà Nam Ninh,1977,1981,thành lập phường,"Phường Tân Thành, Đông Thành, Nam Thành, Phúc Thành, Nam Bình, Bích Đào, Thanh Bình, Vân Giang",Thành phố Ninh Bình
+Ninh Hòa,Ninh Hòa,Khánh Hòa,1978,2010,thành lập phường,Phường Ninh Hiệp,Thị xã Ninh Hòa
+Ô Môn,Ô Môn,Cần Thơ,,2004,thành lập phường,"Phường Châu Văn Liêm, Thới Hoà",Quận Ô Môn
+Phả Lại,Chí Linh,Hải Dương,,2010,thành lập phường,Phường Phả Lại,Thành phố Chí Linh
+Phan Rang,Ninh Hải,Thuận Hải,1977,1981,thành lập phường,"Phường Mỹ Hương, Tấn Tài, Kinh Dinh, Thanh Sơn, Phủ Hà, Đạo Long, Đài Sơn",Thành phố Phan Rang - Tháp Chàm
+Phong Thổ,Tam Đường,Lai Châu,1997,2004,thành lập phường,"Phường Quyết Thắng, Tân Phong, Đoàn Kết",Thành phố Lai Châu
+Phố Mới,Quế Võ,Bắc Ninh,1995,2023,thành lập phường,Phường Phố Mới,Thị xã Quế Võ
+Phú Bài,Hương Thủy,Thừa Thiên - Huế,1983,2010,thành lập phường,Phường Phú Bài,Thị xã Hương Thủy
+Phú Lâm,Tuy Hòa,Phú Yên,1975,2005,thành lập phường,"Phường Phú Lâm, Phú Đông, Phú Thạnh",Thành phố Tuy Hòa
+Phú Mỹ,Phú Mỹ,Bà Rịa - Vũng Tàu,1994,2019,thành lập phường,Phường Phú Mỹ,Thị xã Phú Mỹ
+Phú Tân,Cái Nước,Cà Mau,1979,1991,thành lập xã,Xã Phú Tân,Huyện Phú Tân
+Phú Thứ,Kinh Môn,Hải Dương,2004,2019,thành lập phường,Phường Phú Thứ,Thị xã Kinh Môn
+Phúc Yên,Mê Linh,Vĩnh Phúc,1976,2003,thành lập phường,"Phường Hùng Vương, Trưng Trắc, Trưng Nhị",Thành phố Phúc Yên
+Phụng Hiệp,Phụng Hiệp,Hậu Giang,,2005,thành lập phường,"Phường Ngã Bảy, Lái Hiếu, Hiệp Thành",Thành phố Ngã Bảy
+Phước Bình,Phước Long,Bình Phước,1994,2019,thành lập phường,"Phường Phước Bình, Long Phước",Thị xã Phước Long
+Quan Hóa,Quan Hóa,Thanh Hóa,1987,2019,thành lập thị trấn mới,Thị trấn Hồi Xuân,Huyện Quan Hóa
+Quan Sơn,Quan Sơn,Thanh Hóa,2003,2019,thành lập thị trấn mới,Thị trấn Sơn Lư,Huyện Quan Sơn
+Quán Toan,An Hải,Hải Phòng,1979,1993,thành lập phường,Phường Quán Toan,Quận Hồng Bàng
+Quảng Oai,Ba Vì,Hà Tây,1987,1994,thành lập thị trấn mới,Thị trấn Tây Đằng,Huyện Ba Vì
+Quảng Trị,Triệu Hải,Quảng Trị,1981,1989,thành lập phường,"Phường 1, 2, 3, An Đôn",Thị xã Quảng Trị
+Quảng Xương,Quảng Xương,Thanh Hóa,1991,2019,thành lập thị trấn mới,Thị trấn Tân Phong,Huyện Quảng Xương
+Quảng Yên,Quảng Yên,Quảng Ninh,1964,2011,thành lập phường,Phường Quảng Yên,Thị xã Quảng Yên
+Quỳ Châu,Quỳ Châu,Nghệ An,1990,2010,thành lập thị trấn mới,Thị trấn Tân Lạc,Huyện Quỳ Châu
+Rạch Sỏi,Châu Thành,Kiên Giang,,1988,thành lập phường,"Phường Rạch Sỏi, Vĩnh Lợi",Thành phố Rạch Giá
+Sa Pa,Sa Pa,Lào Cai,,2019,thành lập phường,"Phường Cầu Mây, Sa Pa, Sa Pả, Ô Quý Hồ, Hàm Rồng, Phan Si Păng",Thị xã Sa Pa
+Sài Đồng,Gia Lâm,Hà Nội,1982,2003,thành lập phường,Phường Sài Đồng,Quận Long Biên
+Sao Đỏ,Chí Linh,Hải Dương,1978,2010,thành lập phường,Phường Sao Đỏ,Thành phố Chí Linh
+Sầm Sơn,Quảng Xương,Thanh Hóa,1963,1981,thành lập phường,"Phường Bắc Sơn, Trường Sơn",Thành phố Sầm Sơn
+Sông Cầu,Sông Cầu,Phú Yên,,2009,thành lập phường,"Phường Xuân Yên, Xuân Phú, Xuân Thành",Thị xã Sông Cầu
+Sông Thao,Cẩm Khê,Phú Thọ,1995,2019,thành lập thị trấn mới,Thị trấn Cẩm Khê,Huyện Cẩm Khê
+Sơn Tịnh,Sơn Tịnh,Quảng Ngãi,1987,2013,thành lập phường,Phường Trương Quang Trọng,Thành phố Quảng Ngãi
+Tam Dương,Tam Dương,Vĩnh Phúc,1995,1999,thành lập phường,"Phường Đồng Tâm, Hội Hợp",Thành phố Vĩnh Yên
+Tam Điệp,Tam Điệp,Hà Nam Ninh,1974,1982,thành lập phường,"Phường Bắc Sơn, Nam Sơn, Tây Sơn, Trung Sơn",Thành phố Tam Điệp
+Tam Kỳ,Tam Kỳ,Quảng Nam - Đà Nẵng,,1983,thành lập phường,"Phường An Mỹ, An Sơn, An Xuân, Hòa Hương, Phước Hòa, Tân Thạnh, Trường Xuân (1983), Hòa Thuận (2005)",Thành phố Tam Kỳ
+Tam Quan,Hoài Nhơn,Bình Định,1997,2020,thành lập phường,Phường Tam Quan,Thị xã Hoài Nhơn
+Tào Xuyên,Hoằng Hóa,Thanh Hóa,2003,2012,thành lập phường,Phường Tào Xuyên,Thành phố Thanh Hóa
+Tắc Vân,Cà Mau,Minh Hải,1975,1983,thành lập xã,Xã Tắc Vân,Thành phố Cà Mau
+Tân An,Hiệp Đức,Quảng Nam,1986,2020,thành lập thị trấn mới,Thị trấn Tân Bình,Huyện Hiệp Đức
+Tân Bình,Yên Sơn,Tuyên Quang,1979,2019,thành lập phường,Phường Đội Cấn,Thành phố Tuyên Quang
+Tân Châu,Tân Châu,An Giang,,2009,thành lập phường,"Phường Long Thạnh, Long Hưng, Long Châu",Thị xã Tân Châu
+Tân Dân,Yên Dũng,Bắc Giang,2007,2019,thành lập thị trấn mới,Thị trấn Tân An,Huyện Yên Dũng
+Tân Phước Khánh,Tân Uyên,Bình Dương,1997,2013,thành lập phường,Phường Tân Phước Khánh,Thành phố Tân Uyên
+Tế Tiêu,Mỹ Đức,Hà Tây,1988,2004,thành lập thị trấn mới,Thị trấn Đại Nghĩa,Huyện Mỹ Đức
+Thác Mơ,Phước Long,Bình Phước,1994,2009,thành lập phường,"Phường Long Thủy, Thác Mơ",Thị xã Phước Long
+Thái Hòa,Nghĩa Đàn,Nghệ An,1965,2007,thành lập phường,Phường Hòa Hiếu,Thị xã Thái Hòa
+Thái Hòa,Tân Uyên,Bình Dương,2009,2013,thành lập phường,Phường Thái Hòa,Thành phố Tân Uyên
+Thái Lão,Hưng Nguyên,Nghệ An,1986,1998,thành lập thị trấn mới,Thị trấn Hưng Nguyên,Huyện Hưng Nguyên
+Thanh Hà,Lạc Thủy,Hòa Bình,1999,2019,thành lập thị trấn mới,Thị trấn Ba Hàng Đồi,Huyện Lạc Thủy
+Thanh Nê,Kiến Xương,Thái Bình,1988,2020,thành lập thị trấn mới,Thị trấn Kiến Xương,Huyện Kiến Xương
+Thanh Sơn,Sơn Động,Bắc Giang,2008,2019,thành lập thị trấn mới,Thị trấn Tây Yên Tử,Huyện Sơn Động
+Tháp Chàm,An Sơn,Thuận Hải,1977,1981,thành lập phường,"Phường Đô Vinh, Bảo An, Phước Mỹ",Thành phố Phan Rang - Tháp Chàm
+Thốt Nốt,Thốt Nốt,Cần Thơ,,2008,thành lập phường,Phường Thốt Nốt,Quận Thốt Nốt
+Thuận An,Phú Vang,Thừa Thiên - Huế,1999,2021,thành lập phường,Phường Thuận An,Thành phố Huế
+Tịnh Biên,Tịnh Biên,An Giang,2005,2023,thành lập phường,Phường Tịnh Biên,Thị xã Tịnh Biên
+Tĩnh Gia,Tĩnh Gia,Thanh Hóa,1984,2020,thành lập phường,Phường Hải Hòa,Thị xã Nghi Sơn
+Trà Lồng,Long Mỹ,Hậu Giang,2006,2015,thành lập phường,Phường Trà Lồng,Thị xã Long Mỹ
+Trảng Bàng,Trảng Bàng,Tây Ninh,,2020,thành lập phường,Phường Trảng Bàng,Thị xã Trảng Bàng
+Trới,Hoành Bồ,Quảng Ninh,,2019,thành lập phường,Phường Hoành Bồ,Thành phố Hạ Long
+Tuy Hòa,Tuy Hòa,Phú Khánh,1977,1978,thành lập phường,"Phường 1, 2, 3, 4, 5, 6, 7, 8",Thành phố Tuy Hòa
+Tứ Hạ,Hương Trà,Thừa Thiên - Huế,1984,2011,thành lập phường,Phường Tứ Hạ,Thị xã Hương Trà
+Từ Sơn,Từ Sơn,Bắc Ninh,1959,2008,thành lập phường,Phường Đông Ngàn,Thành phố Từ Sơn
+Uyên Hưng,Tân Uyên,Bình Dương,1994,2013,thành lập phường,Phường Uyên Hưng,Thành phố Tân Uyên
+Vạn Hà,Thiệu Hóa,Thanh Hóa,2000,2019,thành lập thị trấn mới,Thị trấn Thiệu Hóa,Huyện Thiệu Hóa
+Vị Thanh,Vị Thanh,Cần Thơ,,1999,thành lập phường,"Phường 1, 2, 3, 4",Thành phố Vị Thanh
+Vĩnh Châu,Vĩnh Châu,Sóc Trăng,,2011,thành lập phường,Phường 1,Thị xã Vĩnh Châu
+Vĩnh Điện,Điện Bàn,Quảng Nam,1981,2015,thành lập phường,Phường Vĩnh Điện,Thị xã Điện Bàn
+Xuân Hòa,Mê Linh,Vĩnh Phúc,1976,2003,thành lập phường,"Phường Xuân Hòa, Đồng Xuân",Thành phố Phúc Yên
+Xuân Lộc,Long Khánh,Đồng Nai,,2003,thành lập phường,"Phường Xuân Thanh, Xuân Trung, Xuân An, Xuân Bình, Xuân Hòa, Phú Bình và xã Bàu Trâm",Thành phố Long Khánh

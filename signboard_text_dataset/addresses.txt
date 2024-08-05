@@ -1,0 +1,804 @@
+An Châu, Sơn Động, Bắc Giang
+Bắc Lý, Hiệp Hòa, Bắc Giang
+Bố Hạ, Yên Thế, Bắc Giang
+Cao Thượng, Tân Yên, Bắc Giang
+Chũ, Lục Ngạn, Bắc Giang
+Đồi Ngô, Lục Nam, Bắc Giang
+Kép, Lạng Giang, Bắc Giang
+Nhã Nam, Tân Yên, Bắc Giang
+Nham Biền, Yên Dũng, Bắc Giang
+Phồn Xương, Yên Thế, Bắc Giang
+Phương Sơn, Lục Nam, Bắc Giang
+Tân An, Yên Dũng, Bắc Giang
+Tây Yên Tử, Sơn Động, Bắc Giang
+Thắng, Hiệp Hòa, Bắc Giang
+Vôi, Lạng Giang, Bắc Giang
+Bằng Lũng, Chợ Đồn, Bắc Kạn
+Chợ Rã, Ba Bể, Bắc Kạn
+Đồng Tâm, Chợ Mới, Bắc Kạn
+Nà Phặc, Ngân Sơn, Bắc Kạn
+Phủ Thông, Bạch Thông, Bắc Kạn
+Vân Tùng, Ngân Sơn, Bắc Kạn
+Yến Lạc, Na Rì, Bắc Kạn
+Bảo Lạc, Bảo Lạc, Cao Bằng
+Đông Khê, Thạch An, Cao Bằng
+Hòa Thuận, Quảng Hòa, Cao Bằng
+Nguyên Bình, Nguyên Bình, Cao Bằng
+Nước Hai, Hòa An, Cao Bằng
+Pác Miầu, Bảo Lâm, Cao Bằng
+Quảng Uyên, Quảng Hòa, Cao Bằng
+Tà Lùng, Quảng Hòa, Cao Bằng
+Thanh Nhật, Hạ Lang, Cao Bằng
+Thông Nông, Hà Quảng, Cao Bằng
+Tĩnh Túc, Nguyên Bình, Cao Bằng
+Trà Lĩnh, Trùng Khánh, Cao Bằng
+Trùng Khánh, Trùng Khánh, Cao Bằng
+Xuân Hòa, Hà Quảng, Cao Bằng
+Cốc Pài, Xín Mần, Hà Giang
+Đồng Văn, Đồng Văn, Hà Giang
+Mèo Vạc, Mèo Vạc, Hà Giang
+Nông trường Việt Lâm, Vị Xuyên, Hà Giang
+Phố Bảng, Đồng Văn, Hà Giang
+Tam Sơn, Quản Bạ, Hà Giang
+Vị Xuyên, Vị Xuyên, Hà Giang
+Việt Quang, Bắc Quang, Hà Giang
+Vinh Quang, Hoàng Su Phì, Hà Giang
+Vĩnh Tuy, Bắc Quang, Hà Giang
+Yên Bình, Quang Bình, Hà Giang
+Yên Minh, Yên Minh, Hà Giang
+Yên Phú, Bắc Mê, Hà Giang
+Bắc Sơn, Bắc Sơn, Lạng Sơn
+Bình Gia, Bình Gia, Lạng Sơn
+Cao Lộc, Cao Lộc, Lạng Sơn
+Chi Lăng, Chi Lăng, Lạng Sơn
+Đình Lập, Đình Lập, Lạng Sơn
+Đồng Đăng, Cao Lộc, Lạng Sơn
+Đồng Mỏ, Chi Lăng, Lạng Sơn
+Hữu Lũng, Hữu Lũng, Lạng Sơn
+Lộc Bình, Lộc Bình, Lạng Sơn
+Na Dương, Lộc Bình, Lạng Sơn
+Na Sầm, Văn Lãng, Lạng Sơn
+Nông trường Thái Bình, Đình Lập, Lạng Sơn
+Thất Khê, Tràng Định, Lạng Sơn
+Văn Quan, Văn Quan, Lạng Sơn
+Cẩm Khê, Cẩm Khê, Phú Thọ
+Đoan Hùng, Đoan Hùng, Phú Thọ
+Hạ Hòa, Hạ Hòa, Phú Thọ
+Hùng Sơn, Lâm Thao, Phú Thọ
+Hưng Hóa, Tam Nông, Phú Thọ
+Lâm Thao, Lâm Thao, Phú Thọ
+Phong Châu, Phù Ninh, Phú Thọ
+Thanh Ba, Thanh Ba, Phú Thọ
+Thanh Sơn, Thanh Sơn, Phú Thọ
+Thanh Thủy, Thanh Thủy, Phú Thọ
+Yên Lập, Yên Lập, Phú Thọ
+Ba Chẽ, Ba Chẽ, Quảng Ninh
+Bình Liêu, Bình Liêu, Quảng Ninh
+Cái Rồng, Vân Đồn, Quảng Ninh
+Cô Tô, Cô Tô, Quảng Ninh
+Đầm Hà, Đầm Hà, Quảng Ninh
+Quảng Hà, Hải Hà, Quảng Ninh
+Tiên Yên, Tiên Yên, Quảng Ninh
+Chợ Chu, Định Hóa, Thái Nguyên
+Đình Cả, Võ Nhai, Thái Nguyên
+Đu, Phú Lương, Thái Nguyên
+Giang Tiên, Phú Lương, Thái Nguyên
+Hóa Thượng, Đồng Hỷ, Thái Nguyên
+Hùng Sơn, Đại Từ, Thái Nguyên
+Hương Sơn, Phú Bình, Thái Nguyên
+Quân Chu, Đại Từ, Thái Nguyên
+Sông Cầu, Đồng Hỷ, Thái Nguyên
+Trại Cau, Đồng Hỷ, Thái Nguyên
+Lăng Can, Lâm Bình, Tuyên Quang
+Na Hang, Na Hang, Tuyên Quang
+Sơn Dương, Sơn Dương, Tuyên Quang
+Tân Yên, Hàm Yên, Tuyên Quang
+Vĩnh Lộc, Chiêm Hóa, Tuyên Quang
+Yên Sơn, Yên Sơn, Tuyên Quang
+Điện Biên Đông, Điện Biên Đông, Điện Biên
+Mường Ảng, Mường Ảng, Điện Biên
+Mường Chà, Mường Chà, Điện Biên
+Tủa Chùa, Tủa Chùa, Điện Biên
+Tuần Giáo, Tuần Giáo, Điện Biên
+Ba Hàng Đồi, Lạc Thủy, Hòa Bình
+Bo, Kim Bôi, Hòa Bình
+Cao Phong, Cao Phong, Hòa Bình
+Chi Nê, Lạc Thủy, Hòa Bình
+Đà Bắc, Đà Bắc, Hòa Bình
+Hàng Trạm, Yên Thủy, Hòa Bình
+Lương Sơn, Lương Sơn, Hòa Bình
+Mai Châu, Mai Châu, Hòa Bình
+Mãn Đức, Tân Lạc, Hòa Bình
+Vụ Bản, Lạc Sơn, Hòa Bình
+Mường Tè, Mường Tè, Lai Châu
+Nậm Nhùn, Nậm Nhùn, Lai Châu
+Phong Thổ, Phong Thổ, Lai Châu
+Sìn Hồ, Sìn Hồ, Lai Châu
+Tam Đường, Tam Đường, Lai Châu
+Tân Uyên, Tân Uyên, Lai Châu
+Than Uyên, Than Uyên, Lai Châu
+Bát Xát, Bát Xát, Lào Cai
+Bắc Hà, Bắc Hà, Lào Cai
+Khánh Yên, Văn Bàn, Lào Cai
+Mường Khương, Mường Khương, Lào Cai
+Nông trường Phong Hải, Bảo Thắng, Lào Cai
+Phố Lu, Bảo Thắng, Lào Cai
+Phố Ràng, Bảo Yên, Lào Cai
+Si Ma Cai, Si Ma Cai, Lào Cai
+Tằng Loỏng, Bảo Thắng, Lào Cai
+Bắc Yên, Bắc Yên, Sơn La
+Hát Lót, Mai Sơn, Sơn La
+Ít Ong, Mường La, Sơn La
+Mộc Châu, Mộc Châu, Sơn La
+Nông trường Mộc Châu, Mộc Châu, Sơn La
+Phù Yên, Phù Yên, Sơn La
+Sông Mã, Sông Mã, Sơn La
+Thuận Châu, Thuận Châu, Sơn La
+Yên Châu, Yên Châu, Sơn La
+Cổ Phúc, Trấn Yên, Yên Bái
+Mậu A, Văn Yên, Yên Bái
+Mù Cang Chải, Mù Cang Chải, Yên Bái
+Nông trường Liên Sơn, Văn Chấn, Yên Bái
+Nông trường Trần Phú, Văn Chấn, Yên Bái
+Sơn Thịnh, Văn Chấn, Yên Bái
+Thác Bà, Yên Bình, Yên Bái
+Trạm Tấu, Trạm Tấu, Yên Bái
+Yên Bình, Yên Bình, Yên Bái
+Yên Thế, Lục Yên, Yên Bái
+Chờ, Yên Phong, Bắc Ninh
+Gia Bình, Gia Bình, Bắc Ninh
+Lim, Tiên Du, Bắc Ninh
+Thứa, Lương Tài, Bắc Ninh
+Ba Sao, Kim Bảng, Hà Nam
+Bình Mỹ, Bình Lục, Hà Nam
+Kiện Khê, Thanh Liêm, Hà Nam
+Quế, Kim Bảng, Hà Nam
+Tân Thanh, Thanh Liêm, Hà Nam
+Vĩnh Trụ, Lý Nhân, Hà Nam
+Chi Đông, Mê Linh, Hà Nội
+Chúc Sơn, Chương Mỹ, Hà Nội
+Đại Nghĩa, Mỹ Đức, Hà Nội
+Đông Anh, Đông Anh, Hà Nội
+Kim Bài, Thanh Oai, Hà Nội
+Liên Quan, Thạch Thất, Hà Nội
+Phú Minh, Phú Xuyên, Hà Nội
+Phú Xuyên, Phú Xuyên, Hà Nội
+Phúc Thọ, Phúc Thọ, Hà Nội
+Phùng, Đan Phượng, Hà Nội
+Quang Minh, Mê Linh, Hà Nội
+Quốc Oai, Quốc Oai, Hà Nội
+Sóc Sơn, Sóc Sơn, Hà Nội
+Tây Đằng, Ba Vì, Hà Nội
+Thường Tín, Thường Tín, Hà Nội
+Trạm Trôi, Hoài Đức, Hà Nội
+Trâu Quỳ, Gia Lâm, Hà Nội
+Văn Điển, Thanh Trì, Hà Nội
+Vân Đình, Ứng Hòa, Hà Nội
+Xuân Mai, Chương Mỹ, Hà Nội
+Yên Viên, Gia Lâm, Hà Nội
+Cẩm Giang, Cẩm Giàng, Hải Dương
+Gia Lộc, Gia Lộc, Hải Dương
+Kẻ Sặt, Bình Giang, Hải Dương
+Lai Cách, Cẩm Giàng, Hải Dương
+Nam Sách, Nam Sách, Hải Dương
+Ninh Giang, Ninh Giang, Hải Dương
+Phú Thái, Kim Thành, Hải Dương
+Thanh Hà, Thanh Hà, Hải Dương
+Thanh Miện, Thanh Miện, Hải Dương
+Tứ Kỳ, Tứ Kỳ, Hải Dương
+An Dương, An Dương, Hải Phòng
+An Lão, An Lão, Hải Phòng
+Cát Bà, Cát Hải, Hải Phòng
+Cát Hải, Cát Hải, Hải Phòng
+Minh Đức, Thủy Nguyên, Hải Phòng
+Núi Đèo, Thủy Nguyên, Hải Phòng
+Núi Đối, Kiến Thụy, Hải Phòng
+Tiên Lãng, Tiên Lãng, Hải Phòng
+Trường Sơn, An Lão, Hải Phòng
+Vĩnh Bảo, Vĩnh Bảo, Hải Phòng
+Ân Thi, Ân Thi, Hưng Yên
+Khoái Châu, Khoái Châu, Hưng Yên
+Lương Bằng, Kim Động, Hưng Yên
+Như Quỳnh, Văn Lâm, Hưng Yên
+Trần Cao, Phù Cừ, Hưng Yên
+Văn Giang, Văn Giang, Hưng Yên
+Vương, Tiên Lữ, Hưng Yên
+Yên Mỹ, Yên Mỹ, Hưng Yên
+Cát Thành, Trực Ninh, Nam Định
+Cổ Lễ, Trực Ninh, Nam Định
+Cồn, Hải Hậu, Nam Định
+Gôi, Vụ Bản, Nam Định
+Lâm, Ý Yên, Nam Định
+Liễu Đề, Nghĩa Hưng, Nam Định
+Mỹ Lộc, Mỹ Lộc, Nam Định
+Nam Giang, Nam Trực, Nam Định
+Ngô Đồng, Giao Thủy, Nam Định
+Ninh Cường, Trực Ninh, Nam Định
+Quất Lâm, Giao Thủy, Nam Định
+Quỹ Nhất, Nghĩa Hưng, Nam Định
+Rạng Đông, Nghĩa Hưng, Nam Định
+Thịnh Long, Hải Hậu, Nam Định
+Xuân Trường, Xuân Trường, Nam Định
+Yên Định, Hải Hậu, Nam Định
+Bình Minh, Kim Sơn, Ninh Bình
+Me, Gia Viễn, Ninh Bình
+Nho Quan, Nho Quan, Ninh Bình
+Phát Diệm, Kim Sơn, Ninh Bình
+Thiên Tôn, Hoa Lư, Ninh Bình
+Yên Ninh, Yên Khánh, Ninh Bình
+Yên Thịnh, Yên Mô, Ninh Bình
+An Bài, Quỳnh Phụ, Thái Bình
+Diêm Điền, Thái Thụy, Thái Bình
+Đông Hưng, Đông Hưng, Thái Bình
+Hưng Hà, Hưng Hà, Thái Bình
+Hưng Nhân, Hưng Hà, Thái Bình
+Kiến Xương, Kiến Xương, Thái Bình
+Quỳnh Côi, Quỳnh Phụ, Thái Bình
+Tiền Hải, Tiền Hải, Thái Bình
+Vũ Thư, Vũ Thư, Thái Bình
+Bá Hiến, Bình Xuyên, Vĩnh Phúc
+Đại Đình, Tam Đảo, Vĩnh Phúc
+Đạo Đức, Bình Xuyên, Vĩnh Phúc
+Gia Khánh, Bình Xuyên, Vĩnh Phúc
+Hoa Sơn, Lập Thạch, Vĩnh Phúc
+Hợp Châu, Tam Đảo, Vĩnh Phúc
+Hợp Hòa, Tam Dương, Vĩnh Phúc
+Hương Canh, Bình Xuyên, Vĩnh Phúc
+Kim Long, Tam Dương, Vĩnh Phúc
+Lập Thạch, Lập Thạch, Vĩnh Phúc
+Tam Đảo, Tam Đảo, Vĩnh Phúc
+Tam Hồng, Yên Lạc, Vĩnh Phúc
+Tam Sơn, Sông Lô, Vĩnh Phúc
+Thanh Lãng, Bình Xuyên, Vĩnh Phúc
+Thổ Tang, Vĩnh Tường, Vĩnh Phúc
+Tứ Trưng, Vĩnh Tường, Vĩnh Phúc
+Vĩnh Tường, Vĩnh Tường, Vĩnh Phúc
+Yên Lạc, Yên Lạc, Vĩnh Phúc
+Cẩm Xuyên, Cẩm Xuyên, Hà Tĩnh
+Đồng Lộc, Can Lộc, Hà Tĩnh
+Đức Thọ, Đức Thọ, Hà Tĩnh
+Hương Khê, Hương Khê, Hà Tĩnh
+Lộc Hà, Lộc Hà, Hà Tĩnh
+Nghèn, Can Lộc, Hà Tĩnh
+Phố Châu, Hương Sơn, Hà Tĩnh
+Tây Sơn, Hương Sơn, Hà Tĩnh
+Thạch Hà, Thạch Hà, Hà Tĩnh
+Thiên Cầm, Cẩm Xuyên, Hà Tĩnh
+Tiên Điền, Nghi Xuân, Hà Tĩnh
+Vũ Quang, Vũ Quang, Hà Tĩnh
+Xuân An, Nghi Xuân, Hà Tĩnh
+Anh Sơn, Anh Sơn, Nghệ An
+Cầu Giát, Quỳnh Lưu, Nghệ An
+Con Cuông, Con Cuông, Nghệ An
+Diễn Châu, Diễn Châu, Nghệ An
+Đô Lương, Đô Lương, Nghệ An
+Hưng Nguyên, Hưng Nguyên, Nghệ An
+Kim Sơn, Quế Phong, Nghệ An
+Mường Xén, Kỳ Sơn, Nghệ An
+Nam Đàn, Nam Đàn, Nghệ An
+Nghĩa Đàn, Nghĩa Đàn, Nghệ An
+Quán Hành, Nghi Lộc, Nghệ An
+Quỳ Hợp, Quỳ Hợp, Nghệ An
+Tân Kỳ, Tân Kỳ, Nghệ An
+Tân Lạc, Quỳ Châu, Nghệ An
+Thạch Giám, Tương Dương, Nghệ An
+Thanh Chương, Thanh Chương, Nghệ An
+Yên Thành, Yên Thành, Nghệ An
+Đồng Lê, Tuyên Hóa, Quảng Bình
+Hoàn Lão, Bố Trạch, Quảng Bình
+Kiến Giang, Lệ Thủy, Quảng Bình
+Nông trường Lệ Ninh, Lệ Thủy, Quảng Bình
+Nông trường Việt Trung, Bố Trạch, Quảng Bình
+Phong Nha, Bố Trạch, Quảng Bình
+Quán Hàu, Quảng Ninh, Quảng Bình
+Quy Đạt, Minh Hóa, Quảng Bình
+Ái Tử, Triệu Phong, Quảng Trị
+Bến Quan, Vĩnh Linh, Quảng Trị
+Cam Lộ, Cam Lộ, Quảng Trị
+Cửa Tùng, Vĩnh Linh, Quảng Trị
+Cửa Việt, Gio Linh, Quảng Trị
+Diên Sanh, Hải Lăng, Quảng Trị
+Gio Linh, Gio Linh, Quảng Trị
+Hồ Xá, Vĩnh Linh, Quảng Trị
+Khe Sanh, Hướng Hóa, Quảng Trị
+Krông Klang, Đakrông, Quảng Trị
+Lao Bảo, Hướng Hóa, Quảng Trị
+Bến Sung, Như Thanh, Thanh Hóa
+Bút Sơn, Hoằng Hóa, Thanh Hóa
+Cành Nàng, Bá Thước, Thanh Hóa
+Hà Trung, Hà Trung, Thanh Hóa
+Hậu Lộc, Hậu Lộc, Thanh Hóa
+Hậu Hiền, Thiệu Hóa, Thanh Hóa
+Hồi Xuân, Quan Hóa, Thanh Hóa
+Kim Tân, Thạch Thành, Thanh Hóa
+Lam Sơn, Thọ Xuân, Thanh Hóa
+Lang Chánh, Lang Chánh, Thanh Hóa
+Mường Lát, Mường Lát, Thanh Hóa
+Nga Sơn, Nga Sơn, Thanh Hóa
+Ngọc Lặc, Ngọc Lặc, Thanh Hóa
+Nông Cống, Nông Cống, Thanh Hóa
+Nưa, Triệu Sơn, Thanh Hóa
+Phong Sơn, Cẩm Thủy, Thanh Hóa
+Quán Lào, Yên Định, Thanh Hóa
+Quý Lộc, Yên Định, Thanh Hóa
+Rừng Thông, Đông Sơn, Thanh Hóa
+Sao Vàng, Thọ Xuân, Thanh Hóa
+Sơn Lư, Quan Sơn, Thanh Hóa
+Tân Phong, Quảng Xương, Thanh Hóa
+Thiệu Hóa, Thiệu Hóa, Thanh Hóa
+Thọ Xuân, Thọ Xuân, Thanh Hóa
+Thống Nhất, Yên Định, Thanh Hóa
+Thường Xuân, Thường Xuân, Thanh Hóa
+Triệu Sơn, Triệu Sơn, Thanh Hóa
+Vân Du, Thạch Thành, Thanh Hóa
+Vĩnh Lộc, Vĩnh Lộc, Thanh Hóa
+Yên Cát, Như Xuân, Thanh Hóa
+Yên Lâm, Yên Định, Thanh Hóa
+A Lưới, A Lưới, Thừa Thiên Huế
+Khe Tre, Nam Đông, Thừa Thiên Huế
+Lăng Cô, Phú Lộc, Thừa Thiên Huế
+Phong Điền, Phong Điền, Thừa Thiên Huế
+Phú Đa, Phú Vang, Thừa Thiên Huế
+Phú Lộc, Phú Lộc, Thừa Thiên Huế
+Sịa, Quảng Điền, Thừa Thiên Huế
+An Lão, An Lão, Bình Định
+Bình Dương, Phù Mỹ, Bình Định
+Cát Tiến, Phù Cát, Bình Định
+Diêu Trì, Tuy Phước, Bình Định
+Ngô Mây, Phù Cát, Bình Định
+Phù Mỹ, Phù Mỹ, Bình Định
+Phú Phong, Tây Sơn, Bình Định
+Tăng Bạt Hổ, Hoài Ân, Bình Định
+Tuy Phước, Tuy Phước, Bình Định
+Vân Canh, Vân Canh, Bình Định
+Vĩnh Thạnh, Vĩnh Thạnh, Bình Định
+Chợ Lầu, Bắc Bình, Bình Thuận
+Đức Tài, Đức Linh, Bình Thuận
+Lạc Tánh, Tánh Linh, Bình Thuận
+Liên Hương, Tuy Phong, Bình Thuận
+Lương Sơn, Bắc Bình, Bình Thuận
+Ma Lâm, Hàm Thuận Bắc, Bình Thuận
+Phan Rí Cửa, Tuy Phong, Bình Thuận
+Phú Long, Hàm Thuận Bắc, Bình Thuận
+Tân Minh, Hàm Tân, Bình Thuận
+Tân Nghĩa, Hàm Tân, Bình Thuận
+Thuận Nam, Hàm Thuận Nam, Bình Thuận
+Võ Xu, Đức Linh, Bình Thuận
+Cam Đức, Cam Lâm, Khánh Hòa
+Diên Khánh, Diên Khánh, Khánh Hòa
+Khánh Vĩnh, Khánh Vĩnh, Khánh Hòa
+Tô Hạp, Khánh Sơn, Khánh Hòa
+Trường Sa, Trường Sa, Khánh Hòa
+Vạn Giã, Vạn Ninh, Khánh Hòa
+Khánh Hải, Ninh Hải, Ninh Thuận
+Phước Dân, Ninh Phước, Ninh Thuận
+Tân Sơn, Ninh Sơn, Ninh Thuận
+Chí Thạnh, Tuy An, Phú Yên
+Củng Sơn, Sơn Hòa, Phú Yên
+Hai Riêng, Sông Hinh, Phú Yên
+La Hai, Đồng Xuân, Phú Yên
+Phú Hòa, Phú Hòa, Phú Yên
+Phú Thứ, Tây Hòa, Phú Yên
+Ái Nghĩa, Đại Lộc, Quảng Nam
+Đông Phú, Quế Sơn, Quảng Nam
+Hà Lam, Thăng Bình, Quảng Nam
+Hương An, Quế Sơn, Quảng Nam
+Khâm Đức, Phước Sơn, Quảng Nam
+Nam Phước, Duy Xuyên, Quảng Nam
+Núi Thành, Núi Thành, Quảng Nam
+Phú Thịnh, Phú Ninh, Quảng Nam
+Prao, Đông Giang, Quảng Nam
+Tân Bình, Hiệp Đức, Quảng Nam
+Thạnh Mỹ, Nam Giang, Quảng Nam
+Tiên Kỳ, Tiên Phước, Quảng Nam
+Trà My, Bắc Trà My, Quảng Nam
+Trung Phước, Nông Sơn, Quảng Nam
+Ba Tơ, Ba Tơ, Quảng Ngãi
+Châu Ổ, Bình Sơn, Quảng Ngãi
+Chợ Chùa, Nghĩa Hành, Quảng Ngãi
+Di Lăng, Sơn Hà, Quảng Ngãi
+La Hà, Tư Nghĩa, Quảng Ngãi
+Mộ Đức, Mộ Đức, Quảng Ngãi
+Sông Vệ, Tư Nghĩa, Quảng Ngãi
+Trà Xuân - Trà Bồng - Quảng Ngãi
+Buôn Trấp - Krông Ana - Đắk Lắk
+Ea Drăng - Ea H'leo - Đắk Lắk
+Ea Kar - Ea Kar - Đắk Lắk
+Ea Knốp - Ea Kar - Đắk Lắk
+Ea Pốk - Cư M'gar - Đắk Lắk
+Ea Súp - Ea Súp - Đắk Lắk
+Krông Kmar - Krông Bông - Đắk Lắk
+Pơng Drang - Krông Búk - Đắk Lắk
+Krông Năng - Krông Năng - Đắk Lắk
+Liên Sơn - Lắk - Đắk Lắk
+M'Drắk - M'Drắk - Đắk Lắk
+Phước An - Krông Pắc - Đắk Lắk
+Quảng Phú - Cư M'gar - Đắk Lắk
+Đắk Mâm - Krông Nô - Đắk Nông
+Đắk Mil - Đắk Mil - Đắk Nông
+Đức An - Đắk Song - Đắk Nông
+Ea T'ling - Cư Jút - Đắk Nông
+Kiến Đức - Đắk R'lấp - Đắk Nông
+Chư Prông - Chư Prông - Gia Lai
+Chư Sê - Chư Sê - Gia Lai
+Chư Ty - Đức Cơ - Gia Lai
+Đak Đoa - Đak Đoa - Gia Lai
+Đak Pơ - Đak Pơ - Gia Lai
+Ia Kha - Ia Grai - Gia Lai
+Ia Ly - Chư Păh - Gia Lai
+Kbang - Kbang - Gia Lai
+Kon Dơng - Mang Yang - Gia Lai
+Kông Chro - Kông Chro - Gia Lai
+Nhơn Hòa - Chư Pưh - Gia Lai
+Phú Hòa - Chư Păh - Gia Lai
+Phú Thiện - Phú Thiện - Gia Lai
+Phú Túc - Krông Pa - Gia Lai
+Đăk Glei - Đăk Glei - Kon Tum
+Đăk Hà - Đăk Hà - Kon Tum
+Đăk Rve - Kon Rẫy - Kon Tum
+Đăk Tô - Đăk Tô - Kon Tum
+Măng Đen - Kon Plông - Kon Tum
+Plei Kần - Ngọc Hồi - Kon Tum
+Sa Thầy - Sa Thầy - Kon Tum
+Cát Tiên - Cát Tiên - Lâm Đồng
+D'Ran - Đơn Dương - Lâm Đồng
+Di Linh - Di Linh - Lâm Đồng
+Đạ M'ri - Đạ Huoai - Lâm Đồng
+Đạ Tẻh - Đạ Tẻh - Lâm Đồng
+Đinh Văn - Lâm Hà - Lâm Đồng
+Lạc Dương - Lạc Dương - Lâm Đồng
+Liên Nghĩa - Đức Trọng - Lâm Đồng
+Lộc Thắng - Bảo Lâm - Lâm Đồng
+Ma Đa Guôi - Đạ Huoai - Lâm Đồng
+Nam Ban - Lâm Hà - Lâm Đồng
+Phước Cát - Cát Tiên - Lâm Đồng
+Thạnh Mỹ - Đơn Dương - Lâm Đồng
+Đất Đỏ - Đất Đỏ - Bà Rịa – Vũng Tàu
+Long Điền - Long Điền - Bà Rịa – Vũng Tàu
+Long Hải - Long Điền - Bà Rịa – Vũng Tàu
+Ngãi Giao - Châu Đức - Bà Rịa – Vũng Tàu
+Phước Bửu - Xuyên Mộc - Bà Rịa – Vũng Tàu
+Phước Hải - Đất Đỏ - Bà Rịa – Vũng Tàu
+Dầu Tiếng - Dầu Tiếng - Bình Dương
+Lai Uyên - Bàu Bàng - Bình Dương
+Phước Vĩnh - Phú Giáo - Bình Dương
+Tân Bình - Bắc Tân Uyên - Bình Dương
+Tân Thành - Bắc Tân Uyên - Bình Dương
+Đức Phong - Bù Đăng - Bình Phước
+Lộc Ninh - Lộc Ninh - Bình Phước
+Tân Khai - Hớn Quản - Bình Phước
+Tân Phú - Đồng Phú - Bình Phước
+Thanh Bình - Bù Đốp - Bình Phước
+Dầu Giây - Thống Nhất - Đồng Nai
+Định Quán - Định Quán - Đồng Nai
+Gia Ray - Xuân Lộc - Đồng Nai
+Hiệp Phước - Nhơn Trạch - Đồng Nai
+Long Giao - Cẩm Mỹ - Đồng Nai
+Long Thành - Long Thành - Đồng Nai
+Tân Phú - Tân Phú - Đồng Nai
+Trảng Bom - Trảng Bom - Đồng Nai
+Vĩnh An - Vĩnh Cửu - Đồng Nai
+Cần Thạnh - Cần Giờ - Thành phố Hồ Chí Minh
+Củ Chi - Củ Chi - Thành phố Hồ Chí Minh
+Hóc Môn - Hóc Môn - Thành phố Hồ Chí Minh
+Nhà Bè - Nhà Bè - Thành phố Hồ Chí Minh
+Tân Túc - Bình Chánh - Thành phố Hồ Chí Minh
+Bến Cầu - Bến Cầu - Tây Ninh
+Châu Thành - Châu Thành - Tây Ninh
+Dương Minh Châu - Dương Minh Châu - Tây Ninh
+Gò Dầu - Gò Dầu - Tây Ninh
+Tân Biên - Tân Biên - Tây Ninh
+Tân Châu - Tân Châu - Tây Ninh
+An Châu - Châu Thành - An Giang
+An Phú - An Phú - An Giang
+Ba Chúc - Tri Tôn - An Giang
+Cái Dầu - Châu Phú - An Giang
+Chợ Mới - Chợ Mới - An Giang
+Chợ Vàm - Phú Tân - An Giang
+Cô Tô - Tri Tôn - An Giang
+Đa Phước - An Phú - An Giang
+Hội An - Chợ Mới - An Giang
+Long Bình - An Phú - An Giang
+Mỹ Luông - Chợ Mới - An Giang
+Núi Sập - Thoại Sơn - An Giang
+Óc Eo - Thoại Sơn - An Giang
+Phú Hòa - Thoại Sơn - An Giang
+Phú Mỹ - Phú Tân - An Giang
+Tri Tôn - Tri Tôn - An Giang
+Vĩnh Bình - Châu Thành - An Giang
+Vĩnh Thạnh Trung - Châu Phú - An Giang
+Châu Hưng - Vĩnh Lợi - Bạc Liêu
+Gành Hào - Đông Hải - Bạc Liêu
+Hòa Bình - Hòa Bình - Bạc Liêu
+Ngan Dừa - Hồng Dân - Bạc Liêu
+Phước Long - Phước Long - Bạc Liêu
+Ba Tri - Ba Tri - Bến Tre
+Tiệm Tôm - Ba Tri - Bến Tre
+Bình Đại - Bình Đại - Bến Tre
+Châu Thành - Châu Thành - Bến Tre
+Tiên Thủy - Châu Thành - Bến Tre
+Chợ Lách - Chợ Lách - Bến Tre
+Giồng Trôm - Giồng Trôm - Bến Tre
+Phước Mỹ Trung - Mỏ Cày Bắc - Bến Tre
+Mỏ Cày - Mỏ Cày Nam - Bến Tre
+Thạnh Phú - Thạnh Phú - Bến Tre
+Cái Đôi Vàm - Phú Tân - Cà Mau
+Cái Nước - Cái Nước - Cà Mau
+Đầm Dơi - Đầm Dơi - Cà Mau
+Năm Căn - Năm Căn - Cà Mau
+Rạch Gốc - Ngọc Hiển - Cà Mau
+Sông Đốc - Trần Văn Thời - Cà Mau
+Thới Bình - Thới Bình - Cà Mau
+Trần Văn Thời - Trần Văn Thời - Cà Mau
+U Minh - U Minh - Cà Mau
+Cờ Đỏ - Cờ Đỏ - Cần Thơ
+Phong Điền - Phong Điền - Cần Thơ
+Thạnh An - Vĩnh Thạnh - Cần Thơ
+Thới Lai - Thới Lai - Cần Thơ
+Vĩnh Thạnh - Vĩnh Thạnh - Cần Thơ
+Cái Tàu Hạ - Châu Thành - Đồng Tháp
+Lai Vung - Lai Vung - Đồng Tháp
+Lấp Vò - Lấp Vò - Đồng Tháp
+Mỹ An - Tháp Mười - Đồng Tháp
+Mỹ Thọ - Cao Lãnh - Đồng Tháp
+Sa Rài - Tân Hồng - Đồng Tháp
+Thanh Bình - Thanh Bình - Đồng Tháp
+Thường Thới Tiền - Hồng Ngự - Đồng Tháp
+Tràm Chim - Tam Nông - Đồng Tháp
+Bảy Ngàn - Châu Thành A - Hậu Giang
+Búng Tàu - Phụng Hiệp - Hậu Giang
+Cái Tắc - Châu Thành A - Hậu Giang
+Cây Dương - Phụng Hiệp - Hậu Giang
+Kinh Cùng - Phụng Hiệp - Hậu Giang
+Mái Dầm - Châu Thành - Hậu Giang
+Một Ngàn - Châu Thành A - Hậu Giang
+Nàng Mau - Vị Thủy - Hậu Giang
+Ngã Sáu - Châu Thành - Hậu Giang
+Rạch Gòi - Châu Thành A - Hậu Giang
+Vĩnh Viễn - Long Mỹ - Hậu Giang
+Giồng Riềng - Giồng Riềng - Kiên Giang
+Gò Quao - Gò Quao - Kiên Giang
+Hòn Đất - Hòn Đất - Kiên Giang
+Kiên Lương - Kiên Lương - Kiên Giang
+Minh Lương - Châu Thành - Kiên Giang
+Sóc Sơn - Hòn Đất - Kiên Giang
+Tân Hiệp - Tân Hiệp - Kiên Giang
+Thứ Ba - An Biên - Kiên Giang
+Thứ Mười Một - An Minh - Kiên Giang
+Vĩnh Thuận - Vĩnh Thuận - Kiên Giang
+Bến Lức - Bến Lức - Long An
+Bình Phong Thạnh - Mộc Hóa - Long An
+Cần Đước - Cần Đước - Long An
+Cần Giuộc - Cần Giuộc - Long An
+Đông Thành - Đức Huệ - Long An
+Đức Hòa - Đức Hòa - Long An
+Hậu Nghĩa - Đức Hòa - Long An
+Hiệp Hòa - Đức Hòa - Long An
+Tầm Vu - Châu Thành - Long An
+Tân Hưng - Tân Hưng - Long An
+Tân Thạnh - Tân Thạnh - Long An
+Tân Trụ - Tân Trụ - Long An
+Thạnh Hóa - Thạnh Hóa - Long An
+Thủ Thừa - Thủ Thừa - Long An
+Vĩnh Hưng - Vĩnh Hưng - Long An
+An Lạc Thôn - Kế Sách - Sóc Trăng
+Châu Thành - Châu Thành - Sóc Trăng
+Cù Lao Dung - Cù Lao Dung - Sóc Trăng
+Đại Ngãi - Long Phú - Sóc Trăng
+Huỳnh Hữu Nghĩa - Mỹ Tú - Sóc Trăng
+Hưng Lợi - Thạnh Trị - Sóc Trăng
+Kế Sách - Kế Sách - Sóc Trăng
+Lịch Hội Thượng - Trần Đề - Sóc Trăng
+Long Phú - Long Phú - Sóc Trăng
+Mỹ Xuyên - Mỹ Xuyên - Sóc Trăng
+Phú Lộc - Thạnh Trị - Sóc Trăng
+Trần Đề - Trần Đề - Sóc Trăng
+Bình Phú - Cai Lậy - Tiền Giang
+Cái Bè - Cái Bè - Tiền Giang
+Chợ Gạo - Chợ Gạo - Tiền Giang
+Mỹ Phước - Tân Phước - Tiền Giang
+Tân Hiệp - Châu Thành - Tiền Giang
+Tân Hòa - Gò Công Đông - Tiền Giang
+Vàm Láng - Gò Công Đông - Tiền Giang
+Vĩnh Bình - Gò Công Tây - Tiền Giang
+Càng Long - Càng Long - Trà Vinh
+Cầu Kè - Cầu Kè - Trà Vinh
+Cầu Ngang - Cầu Ngang - Trà Vinh
+Cầu Quan - Tiểu Cần - Trà Vinh
+Châu Thành - Châu Thành - Trà Vinh
+Định An - Trà Cú - Trà Vinh
+Long Thành - Duyên Hải - Trà Vinh
+Mỹ Long - Cầu Ngang - Trà Vinh
+Tiểu Cần - Tiểu Cần - Trà Vinh
+Trà Cú - Trà Cú - Trà Vinh
+Cái Nhum - Mang Thít - Vĩnh Long
+Long Hồ - Long Hồ - Vĩnh Long
+Tam Bình - Tam Bình - Vĩnh Long
+Tân Quới - Bình Tân - Vĩnh Long
+Trà Ôn - Trà Ôn - Vĩnh Long
+Vũng Liêm - Vũng Liêm - Vĩnh Long
+An Khê - An Khê - Gia Lai
+An Lạc - Bình Chánh - Hồ Chí Minh
+An Lộc - Bình Long - Bình Phước
+An Lưu - Kinh Môn - Hải Dương
+An Thạnh - Thuận An - Bình Dương
+An Thới - Phú Quốc - Kiên Giang
+Ayun Pa - Ayun Pa - Gia Lai
+B'lao - Bảo Lộc - Lâm Đồng
+Ba Đình - Ba Tơ - Quảng Ngãi
+Ba Đồn - Quảng Trạch - Quảng Bình
+Ba Hàng - Phổ Yên - Thái Nguyên
+Ba Ngòi - Cam Ranh - Khánh Hòa
+Bà Rịa - Châu Thành - Bà Rịa - Vũng Tàu
+Bạch Hạc - Việt Trì - Phú Thọ
+Bãi Bông - Phổ Yên - Thái Nguyên
+Bãi Cháy - Hồng Gai - Quảng Ninh
+Bắc Kạn - Bạch Thông - Bắc Thái
+Bắc Sơn - Phổ Yên - Thái Nguyên
+Bần Yên Nhân - Mỹ Hào - Hưng Yên
+Bến Tắm - Chí Linh - Hải Dương
+Bích Động - Việt Yên - Bắc Giang
+Bỉm Sơn - Hà Trung - Thanh Hóa
+Bình Định - An Nhơn - Bình Định
+Bồng Sơn - Hoài Nhơn - Bình Định
+Buôn Hồ - Krông Búk - Đắk Lắk
+Cái Đôi - Phú Tân - Minh Hải
+Cai Lậy - Cai Lậy - Tiền Giang
+Cái Răng - Châu Thành - Cần Thơ
+Cái Vồn - Bình Minh - Vĩnh Long
+Can Lộc - Can Lộc - Hà Tĩnh
+Cao Lãnh - Cao Lãnh - Đồng Tháp
+Cao Thắng - Hồng Gai - Quảng Ninh
+Cẩm Giàng - Cẩm Giàng - Hải Dương
+Cẩm Thủy - Cẩm Thủy - Thanh Hóa
+Cầu Diễn - Từ Liêm - Hà Nội
+Cầu Giấy - Từ Liêm - Hà Nội
+Cầu Gồ - Yên Thế - Bắc Giang
+Chi Lăng - Tịnh Biên - An Giang
+Chợ Mới - Chợ Mới - Bắc Kạn
+Chơn Thành - Chơn Thành - Bình Phước
+Chùa Hang - Đồng Hỷ - Thái Nguyên
+Chư Păh - Chư Păh - Gia Lai
+Cọc 5 - Hồng Gai - Quảng Ninh
+Cọc 6 - Cẩm Phả - Quảng Ninh
+Cửa Lò - Nghi Lộc - Nghệ An
+Cửa Ông - Cẩm Phả - Quảng Ninh
+Dĩ An - Dĩ An - Bình Dương
+Duy Xuyên - Duy Xuyên - Quảng Nam - Đà Nẵng
+Duyên Hải - Duyên Hải - Trà Vinh
+Dương Đông - Phú Quốc - Kiên Giang
+Đại Từ - Đại Từ - Thái Nguyên
+Đập Đá - An Nhơn - Bình Định
+Điện Biên - Điện Biên - Lai Châu
+Đồ Sơn - Đồ Sơn - Hải Phòng
+Đồng Nai - Cát Tiên - Lâm Đồng
+Đông Triều - Đông Triều - Quảng Ninh
+Đồng Văn - Duy Tiên - Hà Nam
+Đồng Xoài - Đồng Phú - Bình Phước
+Đức Giang - Gia Lâm - Hà Nội
+Đức Phổ - Đức Phổ - Quảng Ngãi
+Gia Lâm - Gia Lâm - Hà Nội
+Gia Nghĩa - Đắk Nông - Đắk Nông
+Giá Rai - Giá Rai - Bạc Liêu
+Giếng Đáy - Hồng Gai - Quảng Ninh
+Gò Công - Gò Công Đông - Tiền Giang
+Hà Cối - Quảng Hà - Quảng Ninh
+Hà Lầm - Hồng Gai - Quảng Ninh
+Hà Nam - Thanh Liêm - Hà Nam Ninh
+Hà Tiên - Hà Tiên - Kiên Giang
+Hà Tu - Hồng Gai - Quảng Ninh
+Hải Lăng - Hải Lăng - Quảng Trị
+Hải Ninh - Móng Cái - Quảng Ninh
+Hòa Bình - Tương Dương - Nghệ An
+Hòa Hiệp Trung - Đông Hòa - Phú Yên
+Hòa Mạc - Duy Tiên - Hà Nam
+Hòa Thành - Hòa Thành - Tây Ninh
+Hòa Vinh - Đông Hòa - Phú Yên
+Hoàng Mai - Quỳnh Lưu - Nghệ An
+Hồ - Thuận Thành - Bắc Ninh
+Hộ Phòng - Giá Rai - Bạc Liêu
+Hồng Lĩnh - Đức Thọ - Hà Tĩnh
+Hồng Ngự - Hồng Ngự - Đồng Tháp
+Hùng Quốc - Trà Lĩnh - Cao Bằng
+Kiến An - Kiến An - Hải Phòng
+Kinh Môn - Kinh Môn - Hải Dương
+Kon Plông - Kon Plông - Kon Tum
+Krông Pắc - Krông Pắc - Đắk Lắk
+Kỳ Anh - Kỳ Anh - Hà Tĩnh
+Kỳ Sơn - Kỳ Sơn - Hòa Bình
+La Gi - Hàm Tân - Bình Thuận
+Lái Thiêu - Thuận An - Bình Dương
+Long Mỹ - Long Mỹ - Hậu Giang
+Lục Nam - Lục Nam - Bắc Giang
+Mai Dịch - Từ Liêm - Hà Nội
+Mang Yang - Mang Yang - Gia Lai
+Mạo Khê - Đông Triều - Quảng Ninh
+Minh Khai - Bạch Thông - Bắc Kạn
+Minh Tân - Kinh Môn - Hải Dương
+Mỏ Chè - Phổ Yên - Thái Nguyên
+Móng Cái - Hải Ninh - Quảng Ninh
+Mộc Hóa - Mộc Hóa - Long An
+Mông Dương - Cẩm Phả - Quảng Ninh
+Mường Ẳng - Tuần Giáo - Điện Biên
+Mường Lay - Mường Lay - Điện Biên
+Mường Lay - Mường Lay - Điện Biên
+Mường Khến - Tân Lạc - Hòa Bình
+Mỹ Phước - Bến Cát - Bình Dương
+Năm Căn - Ngọc Hiển - Minh Hải
+Neo - Yên Dũng - Bắc Giang
+Nếnh - Việt Yên - Bắc Giang
+Ngã Năm - Ngã Năm - Sóc Trăng
+Nghi Xuân - Nghi Xuân - Hà Tĩnh
+Nghĩa Đô - Từ Liêm - Hà Nội
+Nghĩa Lộ - Văn Chấn - Yên Bái
+Nghĩa Tân - Từ Liêm - Hà Nội
+Nhà Bàng - Tịnh Biên - An Giang
+Nhồi - Đông Sơn - Thanh Hóa
+Ninh Bình - Hoa Lư - Hà Nam Ninh
+Ninh Hòa - Ninh Hòa - Khánh Hòa
+Ô Môn - Ô Môn - Cần Thơ
+Phả Lại - Chí Linh - Hải Dương
+Phan Rang - Ninh Hải - Thuận Hải
+Phong Thổ - Tam Đường - Lai Châu
+Phố Mới - Quế Võ - Bắc Ninh
+Phú Bài - Hương Thủy - Thừa Thiên - Huế
+Phú Lâm - Tuy Hòa - Phú Yên
+Phú Mỹ - Phú Mỹ - Bà Rịa - Vũng Tàu
+Phú Tân - Cái Nước - Cà Mau
+Phú Thứ - Kinh Môn - Hải Dương
+Phúc Yên - Mê Linh - Vĩnh Phúc
+Phụng Hiệp - Phụng Hiệp - Hậu Giang
+Phước Bình - Phước Long - Bình Phước
+Quan Hóa - Quan Hóa - Thanh Hóa
+Quan Sơn - Quan Sơn - Thanh Hóa
+Quán Toan - An Hải - Hải Phòng
+Quảng Oai - Ba Vì - Hà Tây
+Quảng Trị - Triệu Hải - Quảng Trị
+Quảng Xương - Quảng Xương - Thanh Hóa
+Quảng Yên - Quảng Yên - Quảng Ninh
+Quỳ Châu - Quỳ Châu - Nghệ An
+Rạch Sỏi - Châu Thành - Kiên Giang
+Sa Pa - Sa Pa - Lào Cai
+Sài Đồng - Gia Lâm - Hà Nội
+Sao Đỏ - Chí Linh - Hải Dương
+Sầm Sơn - Quảng Xương - Thanh Hóa
+Sông Cầu - Sông Cầu - Phú Yên
+Sông Thao - Cẩm Khê - Phú Thọ
+Sơn Tịnh - Sơn Tịnh - Quảng Ngãi
+Tam Dương - Tam Dương - Vĩnh Phúc
+Tam Điệp - Tam Điệp - Hà Nam Ninh
+Tam Kỳ - Tam Kỳ - Quảng Nam - Đà Nẵng
+Tam Quan - Hoài Nhơn - Bình Định
+Tào Xuyên - Hoằng Hóa - Thanh Hóa
+Tắc Vân - Cà Mau - Minh Hải
+Tân An - Hiệp Đức - Quảng Nam
+Tân Bình - Yên Sơn - Tuyên Quang
+Tân Châu - Tân Châu - An Giang
+Tân Dân - Yên Dũng - Bắc Giang
+Tân Phước Khánh - Tân Uyên - Bình Dương
+Tế Tiêu - Mỹ Đức - Hà Tây
+Thác Mơ - Phước Long - Bình Phước
+Thái Hòa - Nghĩa Đàn - Nghệ An
+Thái Hòa - Tân Uyên - Bình Dương
+Thái Lão - Hưng Nguyên - Nghệ An
+Thanh Hà - Lạc Thủy - Hòa Bình
+Thanh Nê - Kiến Xương - Thái Bình
+Thanh Sơn - Sơn Động - Bắc Giang
+Tháp Chàm - An Sơn - Thuận Hải
+Thốt Nốt - Thốt Nốt - Cần Thơ
+Thuận An - Phú Vang - Thừa Thiên - Huế
+Tịnh Biên - Tịnh Biên - An Giang
+Tĩnh Gia - Tĩnh Gia - Thanh Hóa
+Trà Lồng - Long Mỹ - Hậu Giang
+Trảng Bàng - Trảng Bàng - Tây Ninh
+Trới - Hoành Bồ - Quảng Ninh
+Tuy Hòa - Tuy Hòa - Phú Khánh
+Tứ Hạ - Hương Trà - Thừa Thiên - Huế
+Từ Sơn - Từ Sơn - Bắc Ninh
+Uyên Hưng - Tân Uyên - Bình Dương
+Vạn Hà - Thiệu Hóa - Thanh Hóa
+Vị Thanh - Vị Thanh - Cần Thơ
+Vĩnh Châu - Vĩnh Châu - Sóc Trăng
+Vĩnh Điện - Điện Bàn - Quảng Nam
+Xuân Hòa - Mê Linh - Vĩnh Phúc
+Xuân Lộc - Long Khánh - Đồng Nai
