@@ -6,6 +6,9 @@ import streamlit as st
 import tensorflow as tf
 import pickle
 
+import sys
+
+sys.path.insert(0, "yolov7/")
 from models.experimental import attempt_load
 from utils.datasets import letterbox
 from utils.general import check_img_size, non_max_suppression, scale_coords
@@ -15,7 +18,7 @@ from vietocr.tool.predictor import Predictor
 from vietocr.tool.config import Cfg
 
 # Load model yolov7
-yolov7 = attempt_load(["weights/best.pt"], map_location="cpu")  # load FP32 model
+yolov7 = attempt_load(["yolov7/weights/best.pt"], map_location="cpu")  # load FP32 model
 stride = int(yolov7.stride.max())  # model stride
 
 
@@ -23,7 +26,7 @@ print("loading paddle ocr")
 paddle_ocr = PaddleOCR(
     use_angle_cls=True,
     # lang="vi",
-    rec_model_dir="paddleocr_data/inference/latin_PP-OCRv3_rec",
+    rec_model_dir="paddleocr_data/inference/v3_latin_mobile_generated_dataset_v2",
     rec_char_dict_path="paddleocr_data/vietnamese_dict.txt",
     # use_gpu=False,
 )  # need to run only once to download and load model into memory
